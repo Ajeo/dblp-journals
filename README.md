@@ -1,6 +1,6 @@
 # DBLP journals
 
-Execute LDA algorithm, using tmt-0.4.0, for ACM Transaction and IEE Transaction journals 
+Execute LDA algorithm, using tmt-0.4.0, for ACM Transaction and IEEE Transaction journals 
 
 ## First run, parser_for_journals.py
 
