@@ -14,11 +14,12 @@ def write_journal(journal, row):
   data = row[0] + ", " + row[1] + ", " + row[2] + "\n"
   journal.write(data)
 
+#TODO Delete jorunal directories
 def split_files():
   with open('journals/dblp_journals.csv', 'rb') as f:
       reader = csv.reader(f)
       for row in reader:
-        journal = row[2].replace(" ", '_').lower()
+        journal = row[2].replace(" ", '_').replace(".", '').lower()
         if journal in journals:
           write_journal(journals[journal], row)
         else:

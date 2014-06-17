@@ -1,9 +1,12 @@
 #!/usr/bin/python
 
+import json
 import xml.sax
 import sys
 import codecs
 from unidecode import unidecode
+
+journals = []
 
 class DBLPHandler(xml.sax.ContentHandler):
     def __init__(self):
@@ -23,7 +26,7 @@ class DBLPHandler(xml.sax.ContentHandler):
         if tag == "journal":
             self.article['journal'] = self.journal
 
-        if len(self.article['title']) > 0 and len(self.article['year']) > 0 and len(self.article['journal']) > 0 and (self.article['journal'].find('IEEE Transactions') != -1 or self.article['journal'].find('ACM Transactions') != -1):
+        if len(self.article['title']) > 0 and len(self.article['year']) > 0 and len(self.article['journal']) > 0 and (self.article['journal'] in journals):
             data = unidecode(self.article['year'] + ',' + self.article['title'] + ',' + self.article['journal'] + '\n')
             self.file.write(data)
             self.article['title'] = ""
@@ -42,6 +45,10 @@ class DBLPHandler(xml.sax.ContentHandler):
             self.journal = content.strip().replace('"', '').replace("'", "").replace(",", "").rstrip('\n')
 
 if ( __name__ == "__main__"):
+    json_data = open('./src/json/journals.json')
+    journals = json.load(json_data)
+    json_data.close()
+    
     parser = xml.sax.make_parser()
     parser.setFeature(xml.sax.handler.feature_namespaces, 0)
     Handler = DBLPHandler()

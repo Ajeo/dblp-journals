@@ -48,9 +48,9 @@ if ( __name__ == "__main__"):
   for subdir in all_subdirs:
     print subdir
     path_subdir = root_dir + "/" + subdir
+    run_step1(path_subdir)
+    run_step2(path_subdir)
     lda_subdir = [ name for name in os.listdir(path_subdir) if os.path.isdir(os.path.join(path_subdir, name)) ][0]
-    # run_step1(path_subdir)
-    # run_step2(path_subdir)
     run_step3(path_subdir, path_subdir + "/" + lda_subdir)
     run_step4(path_subdir, path_subdir + "/" + lda_subdir)
 
