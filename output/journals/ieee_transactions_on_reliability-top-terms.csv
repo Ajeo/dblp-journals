@@ -1,31 +1,29 @@
-Topic,Top Terms
-Topic 00,models,distributions,generalized,exponential,weibull,simple,commentary,step-stress,inference,computing,damage,recent,prognostic,modified,among,consecutive,phased-mission,procedure,series,masked
-Topic 01,assessment,subject,periodic,computing,shocks,cumulative,coverage,grid,environment,subjected,mixed,non-homogeneous,replacement,redundant,when,approximation,prognostic,damage,performance,k-out-of-n
-Topic 02,framework,design,multiple,stochastic,modes,neural,shock,theory,constraint,nets,mechanical,generalized,predictive,routing,through,events,vulnerability,predicting,consecutive,reliable
-Topic 03,methodology,test,sampling,demonstration,censoring,weibull,distributed,tests,lifetimes,progressive,plans,step-stress,type-i,plan,start-up,gamma,lognormal,interval,type,out-of
-Topic 04,optimization,random,spare,joint,imperfect,strategy,condition,control,production,parallel,policy,inventory,problems,deteriorating,number,machine,effect,genetic,quality,against
-Topic 05,availability,new,some,constraints,protection,aging,distributed,repairs,properties,shared,tolerant,during,recovery,server,bounds,time,without,coherent,optical,task
-Topic 06,information,function,monitoring,binary,universal,generating,considering,trees,decision,imperfect,acyclic,extension,diagrams,uncertainties,coverage,uncertainty,epistemic,operating,performance,measurement
-Topic 07,models,markov,estimation,simulation,parameters,fast,dependability,approximate,likelihood,improved,consecutive-k-out-of-n,general,techniques,finite,recursive,fault-tolerant,acyclic,sensitivity,goodness-of-fit,circular
-Topic 08,estimation,bayesian,burn-in,hazard,class,rate,nonparametric,interval,point,reliabilities,devices,procedure,bathtub,component,coherent,reliable,circuits,series,type,anomaly
-Topic 09,allocation,redundancy,problem,series-parallel,linear,heuristic,tree,robust,elements,consecutively-connected,mission,uncertainty,programming,weighted,recursive,transmission,diagram,consecutive,into,incorporating
-Topic 10,comparison,time,mean,diagnosis,sequential,two,between,local,approximation,circular,congestion,when,tests,algorithms,adaptive,safety,reliable,life,products,efficiency
-Topic 11,components,policy,replacement,effects,warranty,times,age,circuits,digital,discrete,fuzzy,heterogeneous,new,time,products,power,evaluating,variance,estimates,error
-Topic 12,detection,editorial,correction,inspection,intervals,variables,confidence,access,study,probability,experimental,memories,bounds,case,strategies,two,optical,reliable,discrete,ieee
-Topic 13,test,time,error,repair,rates,warranty,from,software,considering,electronic,support,decisions,cost,efficiency,that,rate,estimation,series,plan,architecture
-Topic 14,dynamic,through,cost,order,wireless,functions,functional,control,fuzzy,statistics,identification,errors,real-time,improvement,tolerance,case,faults,mission,capacity,design
-Topic 15,models,risk,imperfect,stochastic,repair,general,policies,design,programming,proportional,aging,intensity,unified,policy,improvement,applications,strategies,properties,genetic,scheme
-Topic 16,life,residual,k-out-of-n,mean,function,evaluating,equipment,components,its,structure,properties,lifetime,computing,congestion,consecutive,circular,standby,applications,hardware,defect
-Topic 17,process,preventive,machine,single,multi-objective,hidden,scheduling,genetic,real-time,approaches,intrusion,review,events,server,reliable,adaptive,standby,generic,evaluate,frequency
-Topic 18,dependent,processes,complex,multiple,components,manufacturing,competing,discrete,time-varying,system-reliability,availability,preventive,subject,variance,estimates,geometric,masked,mission,start-up,damage
-Topic 19,efficient,multistate,approach,power,decision,assessing,chain,through,vulnerability,practical,modifications,sensitivity,engineering,quantitative,subject,finite,phased-mission,diagram,coverage,scheme
-Topic 20,minimal,paths,complex,flow,all,budget,estimating,multistate,new,search,routing,general,generating,spare,parameters,nodes,two,heuristic,control,reliable
-Topic 21,accelerated,life,tests,test,planning,step-stress,stress,plans,independent,distributions,optimum,bivariate,products,various,approach,practical,masked,from,birnbaum-saunders,series
-Topic 22,importance,component,measures,extended,fault-tolerant,statistical,uncertainty,health,schemes,computer,corrections,components,from,epistemic,presence,functions,recent,tolerance,hardware,arrays
-Topic 23,inference,parametric,type-ii,samples,results,known,censored,weibull,order,nonparametric,consecutive,commentary,modified,statistics,how,gamma,editorials-from,class,exact,ieee
-Topic 24,lifetime,linear,methods,consecutive,combined,applications,monte,sensor,indirect,hard,operating,high,value,measurement,impact,bathtub,connected,reliable,critical,exact
-Topic 25,application,prognostics,performance,out-of,life,hierarchical,useful,management,remaining,integrated,measure,coherent,probabilistic,health,review,data-driven,regression,its,through,weighted
-Topic 26,software,growth,approach,models,resource,allocation,debugging,generation,development,dependent,error,hardware,sensitivity,poisson,strategies,assessment,approaches,architecture,defect,presence
-Topic 27,approach,function,novel,path,optimization,estimating,communication,highly,identifying,poisson,classification,link,algorithms,intensity,combined,reliable,adaptive,neural,faults,that
-Topic 28,censored,from,progressively,goodness-of-fit,hybrid,type-ii,test,kullback-leibler,bivariate,applications,life,review,type,information,tolerance,frequency,common,general,consecutive,birnbaum-saunders
-Topic 29,random,competing,risks,parameter,incomplete,several,among,multiple,estimation,presence,independent,memories,faults,adaptive,transistor,predicting,performance,expected,modified,censored
+Topic, Top Terms
+Topic 00, generalized distributions competing weibull models exponential risks shock incomplete among several prognostic computing process damage presence censored consecutive geometric point
+Topic 01, design framework application periodic power practical engineering functional quantitative scheme fuzzy events errors cumulative approximation when generalized probabilistic genetic computational
+Topic 02, assessment stochastic neural computing modes grid environment subjected mixed theory dependent constraint predictive nets mechanical cumulative damage prognostic resource shock
+Topic 03, methodology test weibull sampling demonstration censoring tests lifetimes step-stress progressive distributed plans type-i lognormal plan start-up gamma type interval corrections
+Topic 04, optimization random spare joint genetic strategy condition production parallel imperfect inventory problems deteriorating policy number machine multi-objective scheduling control quality
+Topic 05, new availability aging some constraints protection repairs properties results shared bounds time recovery coherent without during stochastic optical phased-mission against
+Topic 06, information function monitoring binary generating universal considering trees decision imperfect acyclic extension diagrams uncertainties coverage uncertainty improved epistemic operating measurement
+Topic 07, models markov estimation simple commentary exponential parameter parameters fast weibull inference step-stress approximate simulation likelihood order consecutive-k-out-of-n dependability improved statistics
+Topic 08, estimation bayesian burn-in hazard class rate nonparametric interval functions point reliabilities devices procedure bathtub component reliable coherent critical series circuits
+Topic 09, allocation redundancy problem series-parallel heuristic linear tree robust consecutively-connected elements programming uncertainty likelihood weighted mission diagram consecutive improved arrays classification
+Topic 10, comparison sequential diagnosis mean time two order between local approximation through statistics circular congestion when tests algorithms adaptive safety reliable
+Topic 11, replacement policy components effects warranty discrete shocks times age circuits digital heterogeneous non-homogeneous products time new evaluating fuzzy deteriorating cumulative
+Topic 12, detection editorial correction inspection intervals variables confidence access study probability experimental memories bounds case two strategies reliable optical effect ieee
+Topic 13, test time error warranty rates repair from considering software support electronic decisions efficiency that cost estimation rate plan series architecture
+Topic 14, dynamic distributed control cost wireless simulation fault-tolerant review hybrid tolerance fuzzy computer schemes real-time case faults improvement task hardware arrays
+Topic 15, models imperfect risk repair general stochastic policies programming preventive proportional intensity applications unified policy improvement strategies properties exact poisson problems
+Topic 16, life residual k-out-of-n mean function evaluating its components equipment structure properties lifetime computing congestion consecutive circular applications standby type hardware
+Topic 17, process preventive software through single server machine hidden real-time approaches availability tolerant identification debugging intrusion scheduling multi-objective events dependent transistor
+Topic 18, random processes dependent multiple complex components manufacturing competing time-varying system-reliability subject computing availability variance memories consecutive geometric adaptive masked mission
+Topic 19, efficient subject multistate through decision approach coverage assessing chain vulnerability redundant modifications finite power diagram phased-mission elements consecutively-connected frequency transmission
+Topic 20, minimal paths complex flow all new routing estimating budget multistate search general generating spare parameters nodes simple reliable heuristic transmission
+Topic 21, accelerated life tests test planning step-stress distributions stress independent plans optimum bivariate multiple risks products various approach masked multi-objective birnbaum-saunders
+Topic 22, importance component measures extended statistical uncertainty fault-tolerant health components from corrections epistemic presence dependability functions schemes recent computer consecutive-k-out-of-n reliable
+Topic 23, censored type-ii parametric inference progressively from goodness-of-fit samples kullback-leibler test life weibull nonparametric type results hybrid bivariate modified general birnbaum-saunders
+Topic 24, lifetime linear methods consecutive combined monte carlo applications known sensor indirect hard from operating high value measurement impact connected reliable
+Topic 25, performance prognostics out-of life hierarchical useful management remaining integrated measure application health coherent data-driven regression probabilistic through weighted review its
+Topic 26, software growth approach models allocation sensitivity resource development generation error hardware poisson strategies defect phased-mission architecture improvement debugging classification presence
+Topic 27, approach novel path function optimization multiple estimating highly communication identifying link poisson classification algorithms techniques combined reliable intensity adaptive routing

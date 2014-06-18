@@ -1,31 +1,27 @@
-Topic,Top Terms
-Topic 00,thermal,runtime,microprocessors,efficient,modeling,monitoring,online,simulation,integration,planning,parallel,reordering,caches,high,through,survey,models,placement,partitioning,floorplanning
-Topic 01,applications,multiprocessor,real-time,computation,soc,system-on-chip,optimization,energy,system-level,coverage,high,monitoring,communication,resource-constrained,application-specific,compression,implications,satisfiability,cores,concurrent
-Topic 02,exploration,on-chip,automatic,communication,space,synthesis,evaluation,reuse,network-on-chip,applications,microprocessor,application-specific,parallel,survey,monitoring,customization,functional,system-level,boolean,placement
-Topic 03,using,via,checking,equivalence,efficient,integration,phase,controllers,programs,retiming,rtl,concurrent,planning,formal,new,systemc,flow,behavioral,accurate,channel
-Topic 04,code,simultaneous,models,ilp,dual,loops,pipelining,allocation,applications,compression,distributed,minimization,clustering,heuristic,leakage,input,access,microprocessor,specification,mpsoc
-Topic 05,using,rectilinear,cell,blocks,block,compaction,placement,floorplans,vlsi,applications,path,steiner,large,effective,cmos,static,memories,channel,scheme,fault
-Topic 06,low-power,processor,system-level,network,sensor,flow,wireless,node,platform,networks,processing,controllers,heuristic,gating,implementation,transformation,construction,improved,coverage,automation
-Topic 07,synthesis,high-level,behavioral,optimization,resource,binding,scheduling,during,problem,application,distributed,sharing,timing,trade-offs,models,customization,gating,accurate,from,boolean
-Topic 08,mapping,technology,fpga,structural,decomposition,lut-based,modules,sequential,minimization,application,designs,functional,pipelining,loops,chip,implications,module,memories,fast,leakage
-Topic 09,using,functional,process,machine,bus,testing,state,approaches,finite,reducing,random,network-on-chip,retargetable,module,automation,language,fault,parallel,compilation,implementation
-Topic 10,clock,tree,dynamic,buffer,skew,router,high-performance,synthesis,insertion,steiner,multiple,construction,custom,designs,constraints,cores,gating,networks,high,partial
-Topic 11,architecture,networks,allocation,editorial,architectural,exploration,datapath,language,programmable,chip,trade-offs,synthesis,high-performance,monitoring,tools,methodologies,parallel,static,network-on-chip,customization
-Topic 12,logic,sequential,based,using,optimization,combinational,symbolic,arrays,implications,synthesis,boolean,programs,faults,probabilistic,modules,emulation,concurrent,through,reordering,customization
-Topic 13,timing,under,constraint,hybrid,optimization,exploiting,linear,variations,random,sequences,input,static,leakage,area,reordering,analog,programming,temporal,crosstalk,placement
-Topic 14,dynamic,control,management,detection,error,optimization,scheme,voltage,online,level,technique,stochastic,system-on-chip,emulation,rate,caches,through,cmos,platforms,leakage
-Topic 15,optimal,minimization,selection,effective,method,path,based,clock,construction,custom,parallel,access,optimizing,congestion,steiner,floorplan,layout,cmos,reordering,sharing
-Topic 16,assignment,multiple,voltage,floorplanning,memories,effects,soc,large,planning,integrated,optimizing,sharing,temporal,buffer,routability,implementation,microprocessor,insertion,floorplan,transformation
-Topic 17,register,technique,hierarchical,level,size,incremental,transformations,from,fault,custom,tools,estimation,application-specific,clustering,framework,coverage,specification,leakage,problem,layout
-Topic 18,data,performance,estimation,cache,storage,applications,optimized,improved,reuse,processor,structures,technique,cores,level,compression,incremental,rate,automation,reordering,high
-Topic 19,adaptive,special,introduction,section,editorial,validation,platforms,computing,issue,management,chip,methodologies,hardware,tools,parallel,programming,concurrent,new,automation,congestion
-Topic 20,hardware,placement,high-level,vlsi,processing,digital,signal,linear,parallel,validation,systemc,boolean,satisfiability,switch,clustering,specification,congestion,survey,concurrent,customization
-Topic 21,methodology,constraints,low,heterogeneous,reliability,vliw,application,energy,temporal,yield,router,parallel,input,pipelining,through,probabilistic,loops,implementation,concurrent,specification
-Topic 22,designs,fast,analog,testing,yield,module,heuristic,leakage,optimizing,decomposition,boolean,coverage,gating,rate,cmos,modules,integrated,input,structures,concurrent
-Topic 23,using,system,energy-efficient,fault,machines,scheduling,coverage,transition,faults,datapath,trade-offs,management,properties,chain,multiple,leakage,parallel,input,probabilistic,temporal
-Topic 24,efficient,partitioning,scheduling,fpgas,synchronous,pipelined,graphs,dataflow,resource-constrained,stochastic,parallel,problem,partial,channel,hardware/software,caches,placement,routability,implementation,runtime
-Topic 25,optimization,framework,virtual,acm,sizing,rtl,datapaths,crosstalk,todaes,wire,system,parallel,access,mpsoc,compilation,automation,systemc,machines,emulation,routability
-Topic 26,simulation,modeling,faults,compact,over,parallel,retargetable,compilation,synchronous,programmable,accurate,new,adaptive,environment,graphs,heterogeneous,dataflow,language,using,mpsoc
-Topic 27,synthesis,interconnect,physical,fpga,method,placement,high-performance,vlsi,retiming,over,crosstalk,high,framework,congestion,flow,properties,parallel,boolean,wire,environment
-Topic 28,instruction,formal,set,codesign,encoding,hardware/software,efficient,synthesis,specifications,reducing,modeling,from,hardware-software,environment,specification,pipelined,high,custom,structures,reordering
-Topic 29,energy,area,optimizations,switch,global,compiler,hybrid,floorplan,fpga,channel,routability,minimization,compression,through,computing,optimization,optimizing,models,clustering,modules
+Topic, Top Terms
+Topic 00, thermal runtime efficient modeling microprocessors online monitoring simulation integration via parallel planning reordering models caches high through partitioning survey phase
+Topic 01, applications multiprocessor real-time computation optimization soc energy system-on-chip system-level implications monitoring coverage high application-specific communication constraints satisfiability cores resource-constrained concurrent
+Topic 02, exploration on-chip synthesis automatic communication space evaluation reuse network-on-chip applications microprocessor application-specific functional formal parallel placement survey monitoring customization system-level
+Topic 03, instruction synthesis set codesign encoding hardware/software formal efficient reducing specifications environment vlsi from pipelined hardware-software partitioning custom placement high parallel
+Topic 04, code using simultaneous checking equivalence models ilp dual formal behavioral compression phase systemc loops allocation access clustering pipelining leakage input
+Topic 05, using rectilinear cell effective blocks path compaction block floorplans vlsi designs placement applications steiner compiler gating optimizing cmos congestion large
+Topic 06, low-power processor system-level network processing sensor wireless node platform networks flow heuristic gating ilp implementation transformation construction improved synthesis application-specific
+Topic 07, synthesis high-level optimization resource binding behavioral scheduling during application problem distributed simultaneous timing sharing models trade-offs sizing customization gating crosstalk
+Topic 08, area fpga structural designs global decomposition pipelining modules loops switch hybrid constraint floorplan microprocessor specification optimizing coverage high fast sequences
+Topic 09, using functional testing process machine bus state finite approaches random retargetable reducing module network-on-chip faults language leakage accurate fault transition
+Topic 10, clock tree constraints high-performance skew router buffer insertion steiner construction temporal custom cores input gating integrated new floorplan structures application
+Topic 11, architecture networks allocation synthesis architectural exploration trade-offs editorial datapath programmable chip language method high-performance monitoring arrays dual parallel static tools
+Topic 12, logic sequential based using combinational via symbolic arrays programs optimization implications faults boolean concurrent exploiting through probabilistic emulation reordering parallel
+Topic 13, optimization timing under linear constraint variations exploiting hybrid framework sizing crosstalk access wire random leakage sequences static input routability compilation
+Topic 14, dynamic management control detection error voltage scheme designs optimization level buffer technique rate optimal online stochastic path system-on-chip emulation cmos
+Topic 15, minimization optimal mapping technology method selection lut-based fpga clock decomposition based sequential custom access parallel construction layout cmos application reordering
+Topic 16, assignment floorplanning voltage multiple memories large soc effects planning sharing integration optimizing integrated temporal routability implementation microprocessor transformation floorplan effective
+Topic 17, register framework hierarchical size technique level incremental transformations fault coverage from sizing parallel crosstalk mpsoc transition input systemc specification tools
+Topic 18, data performance estimation cache storage applications optimized improved reuse processor structures technique cores compression modeling level rate instruction incremental high
+Topic 19, adaptive hardware special introduction editorial section validation platforms computing issue management methodologies chip tools parallel programming concurrent systemc boolean satisfiability
+Topic 20, placement modeling high-level vlsi digital signal formal switch hardware validation specification processing clustering parallel accurate survey programmable applications congestion chain
+Topic 21, methodology energy low heterogeneous reliability vliw optimizations compiler constraints application parallel yield models through minimization probabilistic implementation concurrent compression optimizing
+Topic 22, fast analog simulation faults designs testing compact modeling yield over heuristic parallel module compilation synchronous retargetable leakage using new method
+Topic 23, synthesis multiple interconnect energy-efficient physical designs dynamic fpga retiming using datapath high-performance framework wire congestion customization buffer crosstalk over sizing
+Topic 24, efficient partitioning scheduling fpgas synchronous pipelined graphs dataflow resource-constrained stochastic parallel phase problem partial channel caches routability implementation planning fault
+Topic 25, system virtual rtl acm flow machines datapaths controllers todaes automation fault parallel properties energy-efficient integrated management cmos caches programming concurrent

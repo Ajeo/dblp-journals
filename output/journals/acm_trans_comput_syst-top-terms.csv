@@ -1,31 +1,8 @@
-Topic,Top Terms
-Topic 00,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,shared,synchronization
-Topic 01,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,exclusion,shared
-Topic 02,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,shared,synchronization
-Topic 03,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,shared,synchronization
-Topic 04,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,exclusion,mutual,shared
-Topic 05,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,exclusion,mutual,shared
-Topic 06,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,shared,synchronization
-Topic 07,support,shared,network,virtual,computing,objects,management,real-time,run-time,shared-memory,kernel,via,software,multiprocessor,interface,hardware,dynamic,processing,approach,effective
-Topic 08,special,preface,issue,architectural,support,approach,programming,effective,management,storage,editorial,modeling,service,synchronization,prefetching,measurement,concurrent,simulation,database,multiprocessors
-Topic 09,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,exclusion,mutual,shared
-Topic 10,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,exclusion,mutual,shared
-Topic 11,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,exclusion,shared
-Topic 12,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,exclusion,mutual,shared
-Topic 13,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,exclusion,shared
-Topic 14,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,exclusion,shared
-Topic 15,parallel,model,security,run-time,protection,computing,formal,shared-memory,algorithms,dynamic,processing,efficient,programs,multicore,programming,storage,software,multiprocessors,support,editorial
-Topic 16,support,shared,network,virtual,computing,objects,management,real-time,run-time,shared-memory,kernel,via,software,multiprocessor,interface,hardware,dynamic,processing,approach,effective
-Topic 17,prefetching,scheduling,approach,disk,effective,multiprocessors,implementation,caching,algorithms,database,simulation,modeling,synchronization,design,processors,programs,storage,improving,information,editorial
-Topic 18,support,shared,network,virtual,computing,objects,management,real-time,run-time,shared-memory,kernel,via,software,multiprocessor,interface,hardware,dynamic,processing,approach,effective
-Topic 19,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,exclusion,shared
-Topic 20,file,i/o,behavior,caching,based,disk,implementation,fast,design,continuous,recovery,access,speculative,scheduling,network,processors,secure,energy-efficient,evaluation,multiprocessors
-Topic 21,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,shared,synchronization
-Topic 22,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,shared,synchronization
-Topic 23,support,shared,network,virtual,computing,objects,management,real-time,run-time,shared-memory,kernel,via,software,multiprocessor,interface,hardware,dynamic,processing,approach,effective
-Topic 24,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,exclusion,shared
-Topic 25,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,shared,synchronization
-Topic 26,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,shared,synchronization
-Topic 27,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,exclusion,mutual,shared
-Topic 28,applications,i/o,behavior,multiprocessor,objects,real-time,kernel,modeling,processors,mechanisms,feedback,database,design,multiprocessors,energy-efficient,consistency,heterogeneous,high-speed,scheduling,implementation
-Topic 29,networks,scheduling,dynamic,design,multiprocessors,management,algorithms,efficient,storage,network,service,evaluation,algorithm,control,fault,tolerance,software,mutual,shared,synchronization
+Topic, Top Terms
+Topic 0, network scheduling shared virtual design management efficient fault dynamic tolerance multiprocessors algorithms via reliable evaluation availability lightweight service improving interface
+Topic 1, networks control algorithm traffic mutual new algorithms service access dynamic fast high-speed atomic large editorial measurement lightweight management storage routing
+Topic 2, file applications i/o behavior scheduling based implementation design caching fast processors disk energy-efficient real-time continuous multiprocessors recovery access consistency secure
+Topic 3, support management approach run-time computing effective kernel processors fault-tolerant software processing hardware storage editorial dynamic shared-memory service shared network architectures
+Topic 4, parallel model security shared-memory protection formal computing run-time multiprocessors software algorithms dynamic storage secure processors large efficient design programs synchronization
+Topic 5, special multiprocessor preface objects real-time issue programming kernel support dynamic architectures modeling editorial storage evaluation software shared concurrent atomic virtual
+Topic 6, approach prefetching architectural effective scheduling multiprocessors disk synchronization caching simulation implementation modeling database programming programs storage special preface issue editorial

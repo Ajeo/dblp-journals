@@ -1,31 +1,4 @@
-Topic,Top Terms
-Topic 00,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 01,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 02,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 03,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 04,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 05,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 06,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 07,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 08,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 09,network,directed,connectivity,set,steiner,games,approximating,routing,optimization,general,congestion,shortest,bounded,computing,combinatorial,packing,geometric,new,finding,analysis
-Topic 10,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 11,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 12,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 13,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 14,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 15,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 16,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 17,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 18,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 19,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 20,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 21,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 22,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 23,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 24,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 25,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 26,network,design,cost,new,under,path,steiner,fixed,games,some,tree,spanning,general,optimization,congestion,directed,connectivity,set,analysis,linear
-Topic 27,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
-Topic 28,improved,matching,approximate,compressed,pattern,distance,buffer,dynamic,sequences,deterministic,fully,results,data,indexes,oracles,stable,routing,analysis,approximating,finding
-Topic 29,dynamic,flow,analysis,location,linear,finding,shortest,approximating,distance,data,weighted,graph,faster,cycle,tree,facility,matchings,information,computing,routing
+Topic, Top Terms
+Topic 0, location weighted facility networks matchings flow analysis vertex assignment dynamic finding cover approximating point linear wireless unsplittable graph faster data
+Topic 1, network directed design connectivity set path new shortest steiner under cost approximating games some analysis bounded routing spanning finding tree
+Topic 2, improved dynamic approximate matching distance data flow compressed linear finding analysis faster approximating tree shortest cycle fully foreword graph information

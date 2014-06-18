@@ -1,31 +1,30 @@
-Topic,Top Terms
-Topic 00,content,stereoscopic,depth,visual,3d-tv,from,perceived,images,viewing,3dtv,effect,disparity,generation,information,conversion,videos,experience,automatic,protection,quality-oriented
-Topic 01,data,atsc,design,novel,sequences,approach,based,receivers,antenna,partial,phase,sequence,layered,wireless,distributed,modified,dtv,transmit,media,videos
-Topic 02,reduction,papr,technique,amplitude,distribution,based,pts,tone,general,efficient,improved,mapping,companding,architecture,without,reduce,quality-oriented,codes,communications,low-complexity
-Topic 03,control,scalable,rate,coding,joint,streaming,dynamic,frame,real-time,via,quantization,bit,adaptation,multiple,applications,advanced,media,atm,high-speed,development
-Topic 04,carrier,offset,dvb-t2,maximum,likelihood,sampling,offsets,recovery,based,time,joint,accurate,compensation,cyclic,ofdm-based,urban,pilot-aided,sfn,codes,interpolation
-Topic 05,modulation,new,performance,decoding,ldpc,coded,ici,spectrum,cancellation,mapping,dvb-h,iterative,combining,bit,monitoring,selective,application,efficiency,error-resilient,dab
-Topic 06,power,reduction,ratio,peak-to-average,nonlinear,overview,companding,transform,amplifiers,linear,development,architecture,partial,memory,layered,techniques,transmit,predistorter,experience,novel
-Topic 07,low,complexity,coding,motion,blind,slm,decoder,new,modified,embedded,selective,pts,disparity,without,mapping,solution,videos,codes,low-complexity,application
-Topic 08,error,audio,techniques,concealment,assessment,subjective,perceptual,efficiency,temporal,code,h.264,decoding,propagation,fading,comments,hdtv,monitoring,algorithms,memory,experience
-Topic 09,t-dmb,layer,performance,fast,predistortion,objective,multicast,methods,physical,comparison,architecture,assessment,repeaters,mac,factor,amplifiers,symbols,atm,strategies,pilot
-Topic 10,phase,noise,standard,television,review,effects,correction,dtmb,measurements,advanced,ofdm-based,chinese,methods,urban,division,memory,analytical,protection,comments,compensation
-Topic 11,hybrid,satellite,study,network,comparative,schemes,optimization,ofdma,methods,improved,3dtv,analytical,techniques,demand,approach,cross-layer,quality-oriented,communications,video-on-demand,development
-Topic 12,synchronization,receiver,chinese,dttb,improved,robust,analog,spread,code,spectrum,overlay,standard,dvb-t2,application,frame,combined,accurate,strategies,design,combining
-Topic 13,detection,timing,effective,symbol,mode,recovery,frame,compensation,combined,standard,interpolation,generation,accurate,code,effect,automatic,without,mpeg-2,error-resilient,pilot-aided
-Topic 14,field,single,interference,measurements,devices,from,multiple,channels,adjacent,presence,part,application,power,distributed,variation,dtv,factors,comments,tests,urban
-Topic 15,network,signal,single,prediction,dvb-h,transmitter,application,coverage,reception,measurement,dtmb,diversity,sfn,distributed,overlay,effect,schemes,variation,heterogeneous,development
-Topic 16,delivery,scheduling,docsis,wireless,bandwidth,dvb,delay,access,multicast,cable,under,upstream,allocation,error,transmissions,multiple,protocol,cross-layer,mac,heterogeneous
-Topic 17,efficient,streaming,packet,h.264,motion,information,interpolation,recovery,vector,loss,h.264/avc,dynamic,high-speed,without,subjective,codes,mpeg,hdtv,wireless,mpeg-2
-Topic 18,radio,new,band,indoor,approach,uhf,local,loss,measurements,positioning,mondiale,dvb-h,coverage,solution,tests,characterization,bands,models,experience,factors
-Topic 19,diversity,channels,transmit,equalization,delay,fading,receivers,tds-ofdm,iterative,design,selective,dvb-t/h,low-complexity,performance,measurement,cyclic,dvb-t,monitoring,accurate,padding
-Topic 20,based,optimization,high,motion,rate,decision,dab,mode,cost,correlation,antenna,structure,pilot,factor,symbols,corrections,distortion,transmitter,repeaters,temporal
-Topic 21,novel,continuous,environment,tds-ofdm,recovery,enhancement,clock,linear,padding,corrections,adaptation,media,combined,heterogeneous,considering,reduce,without,urban,hdtv,environments
-Topic 22,multiplexing,statistical,encoded,h.264/avc,svc,traffic,streams,advanced,vbr,buffering,effects,division,mpeg,characterization,high-speed,protocol,transmissions,mpeg-2,consistent,videos
-Topic 23,applications,based,allocation,image,models,generation,dvb-t,resource,broadband,predistorter,demand,bands,memory,conversion,environments,strategies,experience,codes,development,dynamic
-Topic 24,field,drm,band,reception,trials,medium,synthesis,distortion,view,results,wave,empirical,from,consistent,tests,urban,implementation,impact,sfn,variation
-Topic 25,modeling,television,interference,dvb-t,hpa,co-channel,rate,protocol,cancellation,predistorter,impact,service,ofdm-based,analytical,communications,corrections,memory,mpeg-2,accurate,variation
-Topic 26,wireless,performance,evaluation,service,broadband,dtv,interactive,access,reception,cellular,techniques,distribution,resource,factors,hdtv,error-resilient,protection,impact,urban,approach
-Topic 27,coding,algorithms,hierarchical,video-on-demand,model,fast,selection,users,based,frame,structure,optimal,combining,efficient,temporal,experience,protection,heterogeneous,cyclic,environments
-Topic 28,time,domain,on-channel,equalization,repeater,zapping,modulation,uplink,sequence,dtv,mapping,communications,cyclic,delay,reduce,considering,variation,solution,novel,demand
-Topic 29,feedback,dtv,decision,equalizer,based,implementation,propagation,pilot-aided,uplink,repeaters,pilot,hybrid,symbols,fast,novel,hdtv,structure,cancellation,comments,urban
+Topic, Top Terms
+Topic 00, content stereoscopic depth visual 3d-tv from perceived images viewing 3dtv generation effect disparity information conversion videos experience automatic protection distribution
+Topic 01, data atsc novel design sequences based dtv antenna receivers approach sequence partial phase layered distributed modulation propagation transmit media videos
+Topic 02, reduction papr complexity low pts technique amplitude distribution tone efficient general based mapping domain transform companding without sequence solution reduce
+Topic 03, control coding scalable rate joint applications streaming via frame dynamic real-time quantization model adaptation bit distortion consistent multiple mpeg media
+Topic 04, carrier offset dvb-t2 maximum likelihood sampling offsets recovery based time joint compensation accurate cyclic codes ofdm-based urban uplink sfn interpolation
+Topic 05, modulation new performance decoding ldpc coded ici cancellation mapping combining bit iterative blind selective application effects error-resilient rate monitoring audio
+Topic 06, power reduction ratio peak-to-average nonlinear overview companding amplifiers transform linear development layered partial techniques architecture memory transmit variation general novel
+Topic 07, based low motion optimization rate high complexity coding cost slm modified blind antenna modeling selective factor embedded disparity memory videos
+Topic 08, error audio techniques concealment assessment subjective perceptual multicast wireless optimization code propagation under mac temporal h.264 hdtv dvb memory experience
+Topic 09, performance t-dmb layer predistortion multicast objective methods physical comparison architecture repeaters assessment factor fast mac amplifiers symbols atm pilot codes
+Topic 10, phase television noise standard effects review advanced ofdm-based measurements protocol dtmb methods urban development division chinese analytical communications memory streams
+Topic 11, hybrid satellite study model optimization schemes comparative network methods ofdma improved analytical 3dtv techniques cross-layer approach signal demand temporal quality-oriented
+Topic 12, synchronization receiver chinese dttb robust improved code decoder standard application dvb-t2 frame combined embedded accurate spread design codes blind dtmb
+Topic 13, detection timing effective symbol mode recovery frame generation compensation combined standard interpolation accurate conversion effect automatic code mpeg-2 error-resilient without
+Topic 14, field measurements interference devices from channels adjacent presence part multiple single application power distributed variation dtv factors urban tests antenna
+Topic 15, network signal single transmitter spectrum application dab efficiency overlay dtmb dvb-h diversity comments distributed effect sfn spread schemes dvb-t2 heterogeneous
+Topic 16, delivery scheduling docsis allocation access dvb cable upstream multiple protocol transmissions improved spread resource delay cross-layer quality-oriented sfn heterogeneous strategies
+Topic 17, efficient streaming h.264 packet motion information interpolation recovery loss vector dynamic h.264/avc data high-speed subjective without mpeg codes reduce hdtv
+Topic 18, new radio band indoor approach uhf local positioning measurements loss mondiale solution tests characterization bands embedded dvb-t2 experience factors environment
+Topic 19, diversity channels transmit equalization delay measurement fading receivers tds-ofdm fast design iterative dvb-t/h selective low-complexity performance improved cyclic dvb-t padding
+Topic 20, based decision feedback equalizer implementation pilot dtv mode correlation pilot-aided distortion symbols propagation repeaters uplink structure hybrid hdtv fast cancellation
+Topic 21, continuous novel environment tds-ofdm corrections recovery enhancement clock linear padding adaptation media combined heterogeneous considering reduce without urban environments hdtv
+Topic 22, multiplexing statistical bandwidth encoded h.264/avc svc traffic streams vbr buffering advanced allocation effects division characterization high-speed mpeg consistent mpeg-2 videos
+Topic 23, dvb-h based coverage models image drm applications decoding monitoring tests fading audio mondiale heterogeneous development urban bands quality-oriented cyclic memory
+Topic 24, reception prediction field trials medium synthesis band from view results wave empirical drm impact dtmb urban consistent variation sfn environments
+Topic 25, dvb-t modeling interference applications hpa television analog predistorter co-channel cancellation generation impact service dttb bands memory analytical accurate ofdm-based spread
+Topic 26, wireless evaluation performance service broadband dtv interactive access cellular techniques distribution resource approach heterogeneous factors quality-oriented hdtv protection measurement prediction
+Topic 27, coding algorithms based hierarchical video-on-demand fast structure selection users frame temporal optimal combining efficient experience protection environments heterogeneous accurate cyclic
+Topic 28, time on-channel domain equalization delay repeater hybrid zapping correction demand reception under uplink modulation cyclic communications video-on-demand experience environments reduce

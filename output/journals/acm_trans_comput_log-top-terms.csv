@@ -1,31 +1,4 @@
-Topic,Top Terms
-Topic 00,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 01,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 02,new,algebra,recursion,nested,functions,proofs,approach,from,program,interactive,systems,sequent,proving,results,decidability,term,satisfiability,procedures,calculi,propositional
-Topic 03,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 04,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 05,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 06,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 07,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 08,new,algebra,recursion,nested,functions,proofs,approach,from,program,interactive,systems,sequent,proving,results,decidability,term,satisfiability,procedures,calculi,propositional
-Topic 09,modal,description,problems,unification,undecidability,intuitionistic,concurrent,type,bounds,satisfiability,search,specifications,systems,semantics,knowledge,boolean,sequent,propositional,domains,bounded
-Topic 10,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 11,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 12,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 13,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 14,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 15,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 16,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 17,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 18,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 19,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 20,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 21,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 22,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 23,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 24,modal,proving,sequent,calculi,concurrent,propositional,nonmonotonic,intuitionistic,termination,type,bounds,satisfiability,search,specifications,theorem,problems,description,reasoning,semantics,systems
-Topic 25,new,algebra,recursion,nested,functions,proofs,approach,from,program,interactive,systems,sequent,proving,results,decidability,term,satisfiability,procedures,calculi,propositional
-Topic 26,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 27,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 28,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
-Topic 29,semantics,reasoning,systems,propositional,over,probabilistic,constraints,temporal,knowledge,model,linear,results,trees,logical,properties,higher-order,termination,problems,checking,abstract
+Topic, Top Terms
+Topic 0, modal problems description proving sequent semantics unification undecidability systems calculi propositional theorem search concurrent nonmonotonic boolean using termination under semantic
+Topic 1, reasoning semantics over probabilistic temporal constraints model systems propositional knowledge linear trees logical approach algorithms checking abstract results properties inference
+Topic 2, new algebra systems recursion propositional results decidability nested functions semantics term satisfiability procedures sequent probabilistic theorem theories answer higher-order languages

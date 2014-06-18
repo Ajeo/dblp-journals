@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import os
+import json
 
 from shutil import move
 from os import remove, close
@@ -23,10 +24,11 @@ def run_step1(path_subdir):
   replace(path_subdir + "/step1.scala", "journal_data.csv", path_subdir + "/journal_data.csv")
   os.system("java -jar tmt-0.4.0.jar " + path_subdir + "/step1.scala")
 
-def run_step2(path_subdir):
+def run_step2(path_subdir, topics):
   os.system("cp src/scala/step2.scala " + path_subdir)
   replace(path_subdir + "/step2.scala", "journal_data.csv", path_subdir + "/journal_data.csv")
   replace(path_subdir + "/step2.scala", "./lda-", path_subdir + "/lda-")
+  replace(path_subdir + "/step2.scala", "numTopics = 30", "numTopics = " + str(topics))
   os.system("java -jar tmt-0.4.0.jar " + path_subdir + "/step2.scala")
 
 def run_step3(path_subdir, path_lda_subdir):
@@ -39,17 +41,23 @@ def run_step4(path_subdir, path_lda_subdir):
   os.system("cp src/scala/step4.scala " + path_subdir)
   replace(path_subdir + "/step4.scala", "journal_data.csv", path_subdir + "/journal_data.csv")
   replace(path_subdir + "/step4.scala", "lda-a017658d-30-0c74d394", path_lda_subdir)
-  os.system("java -jar tmt-0.4.0.jar " + path_subdir + "/step4.scala")
+  os.system("java -Xmx16g -jar tmt-0.4.0.jar " + path_subdir + "/step4.scala")
 
 if ( __name__ == "__main__"):
   root_dir = "./journals"
   all_subdirs = [ name for name in os.listdir(root_dir) if os.path.isdir(os.path.join(root_dir, name)) ]
 
+  # TODO Validate that files exist
+  json_data = open('./scripts/assets/journal_topic_list.json')
+  topics_data = json.load(json_data)
+  json_data.close()
+
   for subdir in all_subdirs:
     print subdir
     path_subdir = root_dir + "/" + subdir
     run_step1(path_subdir)
-    run_step2(path_subdir)
+    topics = next((x for x in topics_data if x["name"] == subdir), None)["topics"]
+    run_step2(path_subdir, topics)
     lda_subdir = [ name for name in os.listdir(path_subdir) if os.path.isdir(os.path.join(path_subdir, name)) ][0]
     run_step3(path_subdir, path_subdir + "/" + lda_subdir)
     run_step4(path_subdir, path_subdir + "/" + lda_subdir)

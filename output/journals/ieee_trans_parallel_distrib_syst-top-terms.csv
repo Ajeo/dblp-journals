@@ -1,31 +1,29 @@
-Topic,Top Terms
-Topic 00,processor,array,reconfigurable,linear,generalized,matrix,fast,computations,pipelined,bus,architecture,redistribution,assignment,multiplication,mesh,solving,costs,scalability,problems,architectures
-Topic 01,heterogeneous,programming,reliable,divisible,clusters,static,processor,distribution,arbitrary,multipath,homogeneous,decomposition,strategies,loads,communications,models,gpu,energy-efficient,linear,low-cost
-Topic 02,control,large-scale,management,effective,server,congestion,web,high-performance,applications,servers,distribution,technique,admission,petri,adaptation,cyber-physical,resource,feedback,composition,request
-Topic 03,network,interconnection,processors,schemes,real-time,multicore,radio,rfid,optical,computation,hypercube,middleware,periodic,faults,sensing,tasks,massively,passive,simulations,monitoring
-Topic 04,control,improving,message,real-time,via,methods,framework,problems,synchronization,flow,synchronous,prediction,regular,irregular,domain,compilation,end-to-end,clouds,mesh,partitioning
-Topic 05,load,balancing,online,task,modeling,resource,network,machine,grids,replication,random,estimation,grid,computational,message-passing,characterization,asynchronous,power,discovery,availability
-Topic 06,applications,architectures,models,support,framework,multithreaded,techniques,integrated,adaptive,selection,job,compiler,query,cache,cmp,clusters,multicore,large,aware,behavior
-Topic 07,consistency,packet,distribution,placement,practical,assignment,programs,throughput,clustered,flexible,iterative,interconnects,content,simulated,multiprocessors,wdm,annealing,replica,optical,maintenance
-Topic 08,delay,synchronization,asynchronous,under,constraints,tolerant,high,centers,cluster,replicated,cost,clock,cloud,databases,server,qos,convergence,opportunistic,virtual,large
-Topic 09,editors,fault-tolerant,editorial,shared,special,high-performance,introduction,guest,section,collection,notice,sequence,computers,garbage,security,family,recovery,modular,issue,state
-Topic 10,multiprocessor,hierarchical,machines,class,quality,consistent,fair,monitoring,flow,correlation,mechanism,active,vector,database,overlays,link,task,maximum,queue,through
-Topic 11,graphs,detection,attacks,task,from,hybrid,disk,probabilistic,scheme,technique,star,deterministic,properties,against,identification,multiprocessors,under,ddos,real,onto
-Topic 12,hoc,services,protocols,broadcasting,connected,applications,object,network,coverage,partial,clustering,selection,minimum,localized,set,connectivity,construction,dominating,backbone,neighbor
-Topic 13,p2p,simulation,based,application,method,structured,codes,its,authentication,structures,gpus,anonymous,fast,power,vlsi,cluster,constant,distribution,paradigm,block
-Topic 14,architecture,network,loops,mapping,partitioning,torus,arrays,deadlock,parallelization,automatic,loop,bandwidth,theory,runtime,systolic,routers,graph,neural,transformations,methodology
-Topic 15,multiprocessors,protocol,shared-memory,note,cache,localization,coherence,hardware,large,enhanced,model,multicast,verification,large-scale,sequential,total,chip,ordering,evaluation,scientific
-Topic 16,network,coding,graph,traffic,multihop,model,qos,protocol,content,modeling,social,delivery,ieee,scheme,stochastic,optimization,based,center,star,mobility
-Topic 17,meshes,hypercubes,computation,paths,all-to-all,faulty,cycles,cubes,path,graphs,product,embedding,crossed,all,extended,broadcast,join,tori,their,minimal
-Topic 18,exploiting,framework,optimizing,impact,optimization,parallelism,efficiency,patterns,unified,web,execution,improve,locality,access,minimizing,shared,prefetching,energy,capacity,robustness
-Topic 19,time,execution,programs,parallelizing,platforms,heterogeneous,evaluation,software,logic,bounds,space,constrained,compilers,tasks,response,requirements,languages,trade-offs,speculative,processor
-Topic 20,service,streaming,multistage,model,peer-to-peer,k-ary,n-cube,queuing,switching,video,channel,under,interconnection,servers,diagnosis,nodes,bandwidth,local,multiple,how
-Topic 21,adaptive,hypercube,multicast,multicomputers,wormhole,fault-tolerant,computer,mesh,caching,wormhole-routed,virtual,deadlock-free,multicomputer,channels,architecture,mesh-connected,media,streaming,sorting,cooperative
-Topic 22,scheme,storage,secure,access,cloud,mutual,exclusion,sharing,group,aggregation,key,concurrent,policies,agreement,privacy-preserving,enabling,decentralized,security,byzantine,quorum-based
-Topic 23,new,problem,model,interconnection,multiple,recursive,strategy,highly,operations,cost,toward,reduction,cloud,solution,election,leader,meshes,reconfigurable,processor,parallelization
-Topic 24,topology,trees,control,tree,hoc,embedding,binary,arrays,spanning,complete,energy-efficient,fault-tolerant,collection,hypercubes,multidimensional,constructing,links,its,solutions,reconfiguration
-Topic 25,processing,management,real-time,resource,file,multiprocessor,implementation,internet,adaptive,evaluation,environment,over,replication,strategies,traffic,image,buffer,packet,filtering,hybrid
-Topic 26,peer-to-peer,search,broadcast,unstructured,implementation,global,scaling,topologies,simd,fine-grained,overlay,model,maximizing,messages,latency,node,failures,computers,multiport,interprocedural
-Topic 27,fault,energy,tolerance,embedded,overhead,detection,computers,grid,optimization,complexity,diagnosis,test,novel,massively,application,algorithm-based,low,joint,high-level,through
-Topic 28,environments,overlay,collaborative,information,virtual,network,sharing,load,multicast,privacy,queries,dissemination,over,toward,service,balanced,correction,heuristics,mechanism,hypercubes
-Topic 29,evaluation,i/o,applications,matching,program,case,workloads,cellular,approximate,reduction,detection,area,reconfiguration,experimental,study,user,intrusion,deadlock-free,part,processes
+Topic, Top Terms
+Topic 00, processor array reconfigurable linear matrix generalized pipelined computer bus computations assignment sorting redistribution mesh architectures multiplication costs solving fast mesh-connected
+Topic 01, heterogeneous reliable processor software divisible clusters static arbitrary homogeneous multiple linear jobs load low-cost loads gpu multipath distribution parallelization energy-efficient
+Topic 02, control large-scale web management server effective technique high-performance servers adaptive admission adaptation petri service cyber-physical congestion applications feedback composition power
+Topic 03, network interconnection new star computation schemes processors rfid graph radio multicore real-time hypercube optical cube sensing periodic faults massively presence
+Topic 04, control message flow synchronous irregular via methods protocol real-time problems synchronization regular domain prediction compilation clouds end-to-end mesh energy-efficient tree-based
+Topic 05, load balancing task online asynchronous aggregation resource random machine replication estimation characterization grid message-passing computational discovery availability contention randomized iterative
+Topic 06, applications architectures models reliability support multithreaded techniques large integrated adaptive job supporting compiler cmp deployment aware hardware management cache improving
+Topic 07, packet distribution management consistency placement practical buffer throughput flexible content assignment on-chip interconnects cache replica wdm congestion lightweight optical compile-time
+Topic 08, delay synchronization framework constraints high under centers hierarchical structures tolerant virtual replicated cost cluster asynchronous clock qos reducing opportunistic queue
+Topic 09, editors fault-tolerant shared editorial collection special high-performance introduction guest section computers notice framework sequence compilers family garbage state modular designing
+Topic 10, multiprocessor machines fault-tolerant hypercubes quality binary embedding trees fair monitoring arrays area reconfiguration balanced complete consistent mapping class correlation priority
+Topic 11, graphs detection attacks under task from hybrid collaborative scheme probabilistic disk deterministic multiprocessors against properties failure ddos real onto error
+Topic 12, hoc protocols services multihop broadcasting location minimum object coverage partial connected localized clustering set formation mechanism strategy dominating backbone connectivity
+Topic 13, p2p simulation architecture method based application streaming structured fast authentication gpus anonymous cluster distribution codes media large-scale power paradigm computation
+Topic 14, architecture loops partitioning arrays torus loop mapping network automatic deadlock bandwidth theory shared graph multiprocessor systolic parallelization routers general multidimensional
+Topic 15, multiprocessors protocol shared-memory note cache coherence localization model multicast sharing hardware enhanced caching hierarchical verification large-scale prefetching sequential total evaluation
+Topic 16, network overlay coding multicast traffic applications modeling construction qos social protocol content ieee model delivery optimization stochastic center fast user
+Topic 17, meshes hypercubes paths all-to-all faulty cycles embedding cubes path extended generalized product graphs all crossed tori their exchange minimal broadcast
+Topic 18, exploiting framework optimizing network parallelism patterns program queries unified query multidimensional improve part locality access optimization properties search stream efficiency
+Topic 19, time programs execution heterogeneous evaluation matching logic tasks platforms impact space minimizing constrained fine-grained bounds parallelism requirements trade-offs detection response
+Topic 20, service model peer-to-peer streaming multistage k-ary interconnection based n-cube queuing under video class channel switching scheme servers strategy consensus access
+Topic 21, adaptive hypercube multicast multicomputers wormhole selection fault-tolerant virtual mesh multiple deadlock-free wormhole-routed multicomputer caching channels meshes without simulated annealing cooperative
+Topic 22, cloud storage scheme secure access mutual exclusion group sharing key security peer-to-peer trust privacy enabling privacy-preserving policies decentralized quorum-based databases
+Topic 23, fault evaluation tolerance toward i/o reduction scientific highly overhead cellular low new case workloads operations cost election leader experimental vector
+Topic 24, topology problem programming applications control hoc tree recursive trees approximate its constructing simple rings solutions spanning optimizations cooperative independent energy-efficient
+Topic 25, real-time processing resource multiprocessor file implementation evaluation traffic over internet management environment adaptive replication sharing strategies image middleware mechanism continuous
+Topic 26, peer-to-peer search unstructured broadcast model global environments improving implementation dissemination node virtual topologies simd overlay messages multicasting latency maximizing distance
+Topic 27, energy diagnosis information optimization embedded grid application grids through computers detection multiprocessor complexity test communications techniques smart its novel concurrent

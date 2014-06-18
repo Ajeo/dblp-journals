@@ -1,31 +1,29 @@
-Topic,Top Terms
-Topic 00,transform,comments,note,discrete,fast,fourier,computing,transforms,architecture,differential,``a,scaling,integrated,filtering,response,dynamic,protocols,voltage,cosine,analog
-Topic 01,number,residue,technique,without,images,compaction,sequences,new,large,learning,tolerance,machines,techniques,paths,graph,feature,bist,geometric,comments,virtual
-Topic 02,codes,code,self-checking,detecting,errors,correcting,totally,systematic,unidirectional,checkers,comments,class,arithmetic,error-correcting,checker,byte,bit,single,low-cost,double
-Topic 03,redundancy,modeling,environment,hardware,machine,yield,estimation,designs,integrated,dynamically,specification,reconfigurable,testing,through,mapping,enhancement,recognition,effects,description,grids
-Topic 04,faults,modular,redundant,multiplication,high-speed,combinational,arithmetic,tests,number,representations,designing,logarithmic,circuit,on-line,bridging,complexity,montgomery,precision,cmos,hardware
-Topic 05,sequential,machines,state,from,asynchronous,digital,universal,synchronous,synthesis,linear,signature,testing,theory,circuit,feedback,checking,experiments,scan,that,finite
-Topic 06,prediction,improving,pipelined,search,branch,modulo,cache,model,sets,behavior,delay,register,throughput,characterization,based,program,analytical,adders,deadlock-free,modeling
-Topic 07,model,diagnosis,multiprocessor,under,tasks,diagnosability,models,networks,time,comparison,queueing,periodic,priority,resource,diagnosable,placement,comment,evaluating,product,computing
-Topic 08,cache,hardware,instruction,evaluation,support,parallelism,locality,prefetching,scalable,impact,value,high-performance,exploiting,replacement,hierarchical,coherence,software,multiprocessors,operating,multilevel
-Topic 09,reliability,generation,software,automatic,based,digital,failure,nets,generalized,petri,time,stochastic,method,new,generator,pattern,generators,dependability,testability,theorem
-Topic 10,function,functions,boolean,minimization,their,implementation,application,sequential,method,testable,realization,machines,synthesis,reduction,evaluation,minimizing,expressions,reed-muller,decomposition,power
-Topic 11,networks,wireless,sensor,communication,mobile,broadcast,service,hoc,energy-efficient,information,distributed,protocol,scheme,computational,cost,toward,multimedia,event,quality,adaptive
-Topic 12,editors,computing,introduction,special,guest,concurrent,evaluation,section,reliable,implementation,architecture,adaptive,applications,arithmetic,architectures,networks-on-chip,system-level,cloud,tolerance,supporting
-Topic 13,applications,distributed,allocation,asynchronous,scheme,general,its,fast,new,compression,embedded,mobile,coding,application,information,encryption,processing,uniform,distribution,resource
-Topic 14,processors,array,addition,binary,embedded,multicore,over,control,conversion,radix,curve,multithreading,i/o,implementations,elliptic,tolerant,number,vlsi,clustered,geometry
-Topic 15,vlsi,tree,architectures,trees,implementation,schemes,structures,signal,architecture,reconfiguration,dynamic,processing,binary,structure,constructing,minimum,spanning,reed-solomon,extended,systolic
-Topic 16,arithmetic,some,image,new,operations,floating-point,processing,unit,matrix,algorithm-based,microprocessor,simd,robust,correction,processor,results,cordic,fast,scheme,computation
-Topic 17,testing,optimization,memories,random,access,pattern,multiple,cellular,automata,diagnosis,faults,dynamic,generation,recognition,theory,hybrid,comments,sequential,weighted,reply
-Topic 18,management,dynamic,multiprocessors,load,adaptive,processor,networks,cache,power,packet,balancing,communications,distributed,sharing,framework,tree,multicast,resource,strategy,shared
-Topic 19,distributed,its,hardware,application,neural,problems,sorting,models,database,associative,control,computation,protocols,multiprocessor,databases,model,programming,implementation,concurrent,evaluation
-Topic 20,complexity,finite,new,multiplier,multipliers,multiplication,gf(2,field,over,fields,representation,fast,point,normal,basis,polynomial,class,low,bit-parallel,^m).
-Topic 21,control,distributed,protocol,task,networks,flow,execution,allocation,packet,communication,channel,assignment,reliability,computing,hard,heterogeneous,efficiency,program,access,timing
-Topic 22,division,square,root,computation,energy,low,flash,overhead,rounding,reducing,power,polynomial,floating-point,file,selection,vector,injection,soft,consumption,storage
-Topic 23,binary,decision,path,delay,networks,bounds,diagrams,adder,properties,length,multiple-valued,improved,threshold,lower,k-ary,maximum,shuffle-exchange,reduced,sorting,constrained
-Topic 24,networks,interconnection,multistage,local,graphs,multiple,permutation,ring,bus,area,star,class,connectivity,sorting,traffic,loop,scheme,distributed,dynamic,units
-Topic 25,arrays,processor,array,linear,systolic,programmable,architecture,problem,hypercube,iterative,matrix,solution,computers,equations,new,division,mesh-connected,solving,large,cells
-Topic 26,architecture,simulation,synchronization,study,hardware,latency,verification,vector,clock,ternary,formal,memories,digital,performability,case,failures,accurate,modeling,regular,computers
-Topic 27,storage,architectures,high-performance,multiprocessor,disk,based,caches,novel,recovery,architecture,bubble,temporal,reconfigurable,parity,magnetic,scalable,processing,space,algebra,implementing
-Topic 28,networks,hypercubes,combinational,two,embedding,multicomputer,broadcasting,tolerance,mechanism,switching,between,secure,meshes,probability,numerical,two-level,synthesis,faults,intermittent,reliability
-Topic 29,functions,switching,method,set,functional,generation,minimal,input,generalized,partitioning,problem,level,multivalued,fast,minimum,classification,sets,number,complete,binary
+Topic, Top Terms
+Topic 00, transform comments discrete technique fourier note computing fast architecture transforms dynamic differential ``a simple scaling response filtering algorithmic voltage analog
+Topic 01, number problem technique general residue images new without learning techniques compaction processing solution machines geometric note tests blocks fast hybrid
+Topic 02, codes self-checking code detecting errors correcting class comments arithmetic totally systematic checkers unidirectional error-correcting checker byte single high-speed double generalized
+Topic 03, redundancy hypercubes modeling machine yield integrated meshes grids dynamically through embedding effects between effect mapping reliability enhancement strategies into reconfigurable
+Topic 04, faults modular redundant multiplication multiple high-speed designing binary tests combinational representations generation complexity architectures addition single bridging decomposition output decimal
+Topic 05, sequential machines state from digital synthesis synchronous universal asynchronous testable linear circuit testing sequences feedback checking scan partial theory experiments
+Topic 06, based improving modeling pipelined reliability search methods model adders partitioning behavior modulo bist throughput cache prediction method deadlock-free analytical k-ary
+Topic 07, model diagnosis under diagnosability tasks models networks comparison programs time distributed periodic queueing multiprocessor resource constraints priority hypercubes diagnosable computing
+Topic 08, hardware cache instruction evaluation program support parallelism prediction multiprocessors schemes value execution techniques prefetching impact high-performance computers operating coherence processor
+Topic 09, generation automatic new digital stochastic time nets software petri probability failure models testability generators dependability complex theorem against aliasing reliability
+Topic 10, functions boolean function method minimization switching their multivalued implementation classification reed-muller elementary synthesis generalized expressions evaluation application fuzzy reduction forms
+Topic 11, networks wireless sensor mobile communication distributed broadcast information hoc scheme management protocol energy-efficient adaptive service multimedia toward remote coverage energy
+Topic 12, editors evaluation computing introduction special guest concurrent applications section architecture reliable implementation arithmetic tolerance distributed issues adaptive networks-on-chip architectures system-level
+Topic 13, applications array its distributed application vlsi fast processors asynchronous sorting scheme embedded compression ^m). coding serial use rns computing encryption
+Topic 14, processors embedded register energy level code curve control multicore framework evaluating tolerant multithreading conversion rate binary superscalar clustered buffer instruction
+Topic 15, vlsi trees tree architectures structures implementation paths structure binary two numerical single computational cost constructing languages minimum architecture intermittent reconfiguration
+Topic 16, processing arithmetic image floating-point some operations new study fast unit signal algorithm-based simd matrix cordic correction results digital microprocessor processor
+Topic 17, testing memories optimization random pattern cellular recognition access diagnosis automata faults generation theory dynamic environment hybrid problems application reply functional
+Topic 18, networks dynamic management load adaptive multicomputer packet distribution multicast balancing communications group highly heterogeneous resource strategy power switches sharing key
+Topic 19, multiprocessor hardware computation database software sorting recovery programming concurrent control computers databases method models its pipelined specification implementation application bus
+Topic 20, new complexity finite multiplier multiplication multipliers over field fields gf(2 class representation polynomial point basis normal fast low bit-parallel systolic
+Topic 21, distributed control task networks multiprocessors allocation flow protocol assignment reliability packet switching computing broadcasting graphs communication efficiency mechanism heterogeneous mapping
+Topic 22, division square root power low reducing flash rounding radix overhead computation via consumption file floating-point selection estimation optimization nand trade-offs
+Topic 23, networks binary set combinational decision delay minimum path generation sets minimal diagrams multiple-valued adder improved problems bounds properties approximation length
+Topic 24, networks interconnection graphs multiple multistage local channel permutation ring dynamic area reconfiguration star connectivity traffic regular access faulty resolution graph
+Topic 25, arrays processor array systolic linear programmable disk architecture iterative hypercube matrix equations new multiple allocation solution multicomputers problem division failures
+Topic 26, architecture simulation synchronization vector protocols study memories matching verification multiprocessor methodology clock formal large hardware ternary based improved graph modeling
+Topic 27, cache protocol high-performance architecture storage novel scalable based reconfigurable designs bubble architectures algebra caches magnetic temporal hierarchical hybrid high file

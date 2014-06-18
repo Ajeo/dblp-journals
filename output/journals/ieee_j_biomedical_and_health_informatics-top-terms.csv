@@ -1,31 +1,8 @@
-Topic,Top Terms
-Topic 00,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 01,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 02,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 03,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 04,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 05,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 06,body,area,networks,healthcare,data,control,network,information,surface,ecg,imaging,lightweight,sensor,health,classification,patients,monitoring,mobile,informatics,assessment
-Topic 07,model,joint,signals,via,segmentation,prediction,biomedical,diagnosis,cardiac,semantic,eeg,assistive,information,wearable,imaging,classification,pressure,recognition,novel,activity
-Topic 08,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 09,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 10,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 11,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 12,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 13,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 14,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 15,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 16,segmentation,images,from,multiple,automatic,3-d,joint,cardiac,automated,classification,compression,modeling,new,model,reconstruction,ecg,cells,tracking,method,tomography
-Topic 17,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 18,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 19,recognition,activity,pressure,sensor,human,wearable,study,support,models,classification,imaging,novel,medical,monitoring,health,prediction,biomedical,assessment,scheme,model
-Topic 20,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 21,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 22,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 23,lightweight,networks,sensor,medical,network,novel,body,data,mobile,function,assessment,tracking,imaging,classification,area,health,prediction,design,monitoring,patients
-Topic 24,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 25,sensor,study,network,recognition,pressure,activity,automatic,novel,medical,imaging,classification,function,monitoring,design,prediction,support,models,health,biomedical,assessment
-Topic 26,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 27,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
-Topic 28,model,recognition,pressure,activity,prediction,biomedical,diagnosis,cardiac,semantic,eeg,assistive,information,sensor,classification,imaging,support,models,study,human,monitoring
-Topic 29,classification,monitoring,health,imaging,signals,clinical,algorithm,patients,assessment,automatic,compression,support,automated,function,surface,data,eeg,biomedical,seizure,evaluation
+Topic, Top Terms
+Topic 0, model joint prediction signals via biomedical diagnosis cardiac semantic eeg assistive information pressure activity imaging recognition classification assessment scheme characterization
+Topic 1, classification monitoring health algorithm clinical automatic compression assessment automated signals support patients novel imaging eeg function seizure evaluation modeling surface
+Topic 2, networks lightweight body sensor network medical data novel information mobile assessment function imaging tracking classification prediction biomedical diagnosis scheme characterization
+Topic 3, segmentation images from multiple automatic 3-d cardiac automated classification compression modeling joint new reconstruction ecg cells imaging assessment tomography model
+Topic 4, sensor network medical function design novel imaging study pressure activity classification recognition prediction biomedical assessment diagnosis scheme characterization new health
+Topic 5, recognition activity pressure classification human imaging monitoring support models signals study surface wearable fall biomedical health assessment scheme diagnosis control
+Topic 6, body area data networks healthcare control imaging informatics health surface ecg patients information classification extraction network via biomedical characterization assessment

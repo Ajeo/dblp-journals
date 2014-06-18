@@ -1,0 +1,314 @@
+[
+    {
+        "topics": 2,
+        "name": "acm_tist"
+    },
+    {
+        "topics": 9,
+        "name": "acm_trans_asian_lang_inf_process"
+    },
+    {
+        "topics": 17,
+        "name": "acm_trans_comput-hum_interact"
+    },
+    {
+        "topics": 3,
+        "name": "acm_trans_comput_log"
+    },
+    {
+        "topics": 7,
+        "name": "acm_trans_comput_syst"
+    },
+    {
+        "topics": 22,
+        "name": "acm_trans_database_syst"
+    },
+    {
+        "topics": 26,
+        "name": "acm_trans_design_autom_electr_syst"
+    },
+    {
+        "topics": 29,
+        "name": "acm_trans_embedded_comput_syst"
+    },
+    {
+        "topics": 30,
+        "name": "acm_trans_graph"
+    },
+    {
+        "topics": 16,
+        "name": "acm_trans_inf_syst"
+    },
+    {
+        "topics": 8,
+        "name": "acm_trans_inf_syst_secur"
+    },
+    {
+        "topics": 1,
+        "name": "acm_trans_internet_techn"
+    },
+    {
+        "topics": 3,
+        "name": "acm_trans_management_inf_syst"
+    },
+    {
+        "topics": 29,
+        "name": "acm_trans_math_softw"
+    },
+    {
+        "topics": 16,
+        "name": "acm_trans_model_comput_simul"
+    },
+    {
+        "topics": 19,
+        "name": "acm_trans_program_lang_syst"
+    },
+    {
+        "topics": 9,
+        "name": "acm_trans_softw_eng_methodol"
+    },
+    {
+        "topics": 3,
+        "name": "acm_transactions_on_algorithms"
+    },
+    {
+        "topics": 7,
+        "name": "ieee_j_biomedical_and_health_informatics"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_t_automation_science_and_engineering"
+    },
+    {
+        "topics": 3,
+        "name": "ieee_t_autonomous_mental_development"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_t_fuzzy_systems"
+    },
+    {
+        "topics": 26,
+        "name": "ieee_t_geoscience_and_remote_sensing"
+    },
+    {
+        "topics": 1,
+        "name": "ieee_t_haptics"
+    },
+    {
+        "topics": 28,
+        "name": "ieee_t_instrumentation_and_measurement"
+    },
+    {
+        "topics": 5,
+        "name": "ieee_t_services_computing"
+    },
+    {
+        "topics": 28,
+        "name": "ieee_t_vehicular_technology"
+    },
+    {
+        "topics": 29,
+        "name": "ieee_trans_automat_contr"
+    },
+    {
+        "topics": 17,
+        "name": "ieee_trans_biomed_circuits_and_systems"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_trans_biomed_engineering"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_trans_circuits_syst_video_techn"
+    },
+    {
+        "topics": 1,
+        "name": "ieee_trans_comput_intellig_and_ai_in_games"
+    },
+    {
+        "topics": 28,
+        "name": "ieee_trans_computers"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_trans_consumer_electronics"
+    },
+    {
+        "topics": 28,
+        "name": "ieee_trans_contr_sys_techn"
+    },
+    {
+        "topics": 8,
+        "name": "ieee_trans_dependable_sec_comput"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_trans_education"
+    },
+    {
+        "topics": 29,
+        "name": "ieee_trans_evolutionary_computation"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_trans_industrial_informatics"
+    },
+    {
+        "topics": 29,
+        "name": "ieee_trans_knowl_data_eng"
+    },
+    {
+        "topics": 29,
+        "name": "ieee_trans_med_imaging"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_trans_mob_comput"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_trans_on_cad_of_integrated_circuits_and_systems"
+    },
+    {
+        "topics": 28,
+        "name": "ieee_trans_parallel_distrib_syst"
+    },
+    {
+        "topics": 29,
+        "name": "ieee_trans_pattern_anal_mach_intell"
+    },
+    {
+        "topics": 2,
+        "name": "ieee_trans_prof_communication"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_trans_smart_grid"
+    },
+    {
+        "topics": 28,
+        "name": "ieee_trans_software_eng"
+    },
+    {
+        "topics": 1,
+        "name": "ieee_trans_systems_science_and_cybernetics"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_trans_vis_comput_graph"
+    },
+    {
+        "topics": 29,
+        "name": "ieee_trans_vlsi_syst"
+    },
+    {
+        "topics": 27,
+        "name": "ieee_transactions_on_communications"
+    },
+    {
+        "topics": 29,
+        "name": "ieee_transactions_on_image_processing"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_transactions_on_industrial_electronics"
+    },
+    {
+        "topics": 28,
+        "name": "ieee_transactions_on_information_forensics_and_security"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_transactions_on_information_theory"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_transactions_on_intelligent_transportation_systems"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_transactions_on_multimedia"
+    },
+    {
+        "topics": 10,
+        "name": "ieee_transactions_on_network_and_service_management"
+    },
+    {
+        "topics": 28,
+        "name": "ieee_transactions_on_reliability"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_transactions_on_signal_processing"
+    },
+    {
+        "topics": 30,
+        "name": "ieee_transactions_on_wireless_communications"
+    },
+    {
+        "topics": 1,
+        "name": "t_affective_computing"
+    },
+    {
+        "topics": 1,
+        "name": "taas"
+    },
+    {
+        "topics": 2,
+        "name": "taccess"
+    },
+    {
+        "topics": 6,
+        "name": "taco"
+    },
+    {
+        "topics": 3,
+        "name": "tap"
+    },
+    {
+        "topics": 29,
+        "name": "tbc"
+    },
+    {
+        "topics": 1,
+        "name": "tiis"
+    },
+    {
+        "topics": 2,
+        "name": "tkdd"
+    },
+    {
+        "topics": 5,
+        "name": "tlt"
+    },
+    {
+        "topics": 1,
+        "name": "toct"
+    },
+    {
+        "topics": 8,
+        "name": "tomccap"
+    },
+    {
+        "topics": 1,
+        "name": "tos"
+    },
+    {
+        "topics": 4,
+        "name": "tosn"
+    },
+    {
+        "topics": 2,
+        "name": "trets"
+    },
+    {
+        "topics": 1,
+        "name": "tslp"
+    },
+    {
+        "topics": 1,
+        "name": "tweb"
+    }
+]

@@ -1,31 +1,10 @@
-Topic,Top Terms
-Topic 00,document,spoken,chinese,models,discriminative,generation,combination,study,with,comparative,comparison,special,introduction,issue,automatic,texts,detection,modeling,patterns,mining
-Topic 01,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 02,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 03,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 04,study,languages,search,comparative,hindi,models,monolingual,modeling,chinese,automatic,transliteration,web,english,corpus,between,its,with,application,question,document
-Topic 05,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 06,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 07,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 08,system,textual,lexical,texts,cross-lingual,analysis,its,resolution,korean,combination,entity,question,data,discriminative,improving,speech,with,monolingual,search,detection
-Topic 09,named,models,bilingual,corpora,entity,semantic,discriminative,mining,tracking,text,query,combination,comparison,words,method,between,patterns,hindi,monolingual,question
-Topic 10,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 11,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 12,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 13,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 14,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 15,knowledge,named,mining,entity,bilingual,corpora,text,analysis,lexical,models,automatic,texts,patterns,detection,method,transliteration,modeling,semantic,discriminative,english
-Topic 16,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 17,with,models,speech,comparison,improving,text,patterns,texts,parsing,entity,monolingual,data,method,corpus,named,tracking,time,answering,question,discriminative
-Topic 18,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 19,knowledge,lexical,textual,entity,analysis,text,named,mining,discriminative,texts,automatic,system,cross-lingual,detection,patterns,semantic,transliteration,modeling,english,method
-Topic 20,special,introduction,issue,processing,natural,temporal,modeling,languages,chinese,spoken,document,tracking,automatic,texts,parsing,detection,patterns,resolution,mining,transliteration
-Topic 21,with,monolingual,models,parsing,texts,speech,method,corpus,tracking,time,labeling,web,search,data,question,improving,entity,combination,comparison,text
-Topic 22,system,improving,speech,comparison,cross-lingual,data,resolution,its,korean,combination,analysis,question,entity,detection,discriminative,lexical,monolingual,search,with,automatic
-Topic 23,chinese,unified,segmentation,framework,character,modeling,english,tagging,name,query,semantic,disambiguation,generation,entity,cross-lingual,automatic,discriminative,labeling,resolution,words
-Topic 24,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 25,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 26,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 27,named,models,bilingual,corpora,entity,semantic,discriminative,mining,tracking,text,query,combination,comparison,words,method,between,patterns,hindi,monolingual,question
-Topic 28,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
-Topic 29,hindi,text,english,mining,automatic,semantic,modeling,detection,cross-lingual,its,resolution,transliteration,analysis,web,between,texts,korean,labeling,method,words
+Topic, Top Terms
+Topic 0, chinese document spoken character generation name discriminative english modeling disambiguation automatic query combination models cross-lingual resolution identification semantic question parsing
+Topic 1, with models speech monolingual comparison parsing text texts discriminative patterns bilingual query improving combination entity method corpus labeling tracking semantic
+Topic 2, lexical knowledge textual analysis texts entity cross-lingual discriminative named semantic mining text automatic patterns detection transliteration english method labeling resolution
+Topic 3, text framework segmentation english mining semantic modeling tagging chinese its web resolution automatic unified categorization detection labeling between application words
+Topic 4, hindi study languages search comparative models automatic monolingual modeling transliteration english cross-lingual generation name its web labeling application question corpus
+Topic 5, text framework segmentation english mining semantic modeling tagging chinese its web resolution automatic unified categorization detection labeling between application words
+Topic 6, special introduction issue processing temporal natural modeling tracking parsing languages automatic texts detection patterns chinese resolution transliteration english cross-lingual mining
+Topic 7, named entity corpora bilingual knowledge mining patterns method tracking semantic between question words text analysis lexical models automatic texts hindi
+Topic 8, system improving speech comparison detection resolution korean cross-lingual its discriminative analysis combination data lexical question automatic entity identification textual name

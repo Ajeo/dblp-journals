@@ -54,6 +54,6 @@ val perDocWordTopicDistributions = EstimatePerWordTopicDistributions(
   model, dataset, perDocTopicDistributions);
 
 println("Writing top terms to "+output+"-sliced-top-terms.csv");
-val topTerms = QueryTopTerms(model, dataset, perDocWordTopicDistributions, numTopTerms=50, grouping=slice);
+val topTerms = QueryTopTerms(model, dataset, perDocWordTopicDistributions, numTopTerms=20, grouping=slice);
 CSVFile(output+"-sliced-top-terms.csv").write(usage);
 

@@ -1,31 +1,6 @@
-Topic,Top Terms
-Topic 00,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 01,selection,query,discovery,model,on-demand,approach,dynamic,toward,mining,process,automatic,allocation,transactional,applications,provisioning,special,section,editorial,guest,scalable
-Topic 02,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 03,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 04,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 05,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 06,discovery,on-demand,provisioning,applications,approach,scalable,personalized,software,cloud,distributed,semantic,resource,environments,dynamic,model,from,allocation,architecture,ranking,toward
-Topic 07,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 08,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 09,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 10,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 11,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 12,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 13,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 14,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 15,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 16,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 17,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 18,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 19,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 20,cloud,provisioning,resource,applications,environments,optimization,ranking,discovery,scalable,transactions,approach,model,on-demand,allocation,dynamic,toward,personalized,software,secure,semantic
-Topic 21,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 22,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 23,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 24,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 25,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 26,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 27,editorial,guest,special,section,transactional,enforcement,distributed,introduction,enterprise,modeling,integration,eic,soa,processes,dependability,security,engineering,workflow,selection,query
-Topic 28,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
-Topic 29,approach,data,soa,workflow,engineering,software,dynamic,cloud,processes,architecture,model,applications,analysis,network,design,from,introduction,process,toward,environments
+Topic, Top Terms
+Topic 0, cloud applications environments resource provisioning secure allocation on-demand model optimization ranking toward system environment personalized scalable software transactions workflow semantic
+Topic 1, discovery selection query approach dynamic on-demand model toward mining process from scalable automatic distributed semantic architecture allocation ranking personalized design
+Topic 2, data network analysis approach performance virtualized software process dynamic model design personalized architecture compositions runtime allocation modeling integration engineering environment
+Topic 3, editorial guest special transactional section enforcement eic distributed integration introduction dynamic engineering workflow modeling enterprise new from runtime automatic design
+Topic 4, soa approach processes workflow engineering security introduction architecture dependability software scientific distributed monitoring transactions from design new enterprise composite mining

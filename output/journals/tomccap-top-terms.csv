@@ -1,31 +1,9 @@
-Topic,Top Terms
-Topic 00,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 01,coding,mobile,scalable,efficient,based,access,networks,approach,effective,optimization,search,network,delivery,large-scale,web,transmission,data,fusion,retrieval,social
-Topic 02,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 03,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 04,networks,mobile,scalable,control,social,interactive,applications,quality,effective,caching,wireless,interactions,retrieval,delivery,videos,online,access,fusion,over,real-time
-Topic 05,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 06,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 07,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 08,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 09,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 10,analysis,learning,based,context,semantic,classification,efficient,watermarking,data,streams,generation,search,images,wireless,clustering,sharing,real-time,summarization,scalable,applications
-Topic 11,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 12,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 13,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 14,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 15,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 16,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 17,control,applications,interactive,real-time,interactions,access,fast,over,wireless,approach,data,server,delivery,scalable,fusion,mobile,networks,social,effective,transmission
-Topic 18,towards,perspective,information,videos,automatic,framework,visual,search,user,interactive,via,efficient,editorial,authoring,social,based,retrieval,online,data,approach
-Topic 19,based,efficient,towards,search,watermarking,streams,large-scale,videos,data,robust,online,information,p2p,visual,delivery,feature,detection,automatic,retrieval,framework
-Topic 20,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 21,eye,tracking,evaluation,recognition,algorithm,robust,perspective,automatic,detection,quality,detecting,clustering,towards,editorial,authoring,social,retrieval,feature,based,online
-Topic 22,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 23,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 24,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 25,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 26,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 27,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 28,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
-Topic 29,retrieval,social,applications,data,via,information,introduction,special,online,approach,feature,quality,search,over,interactive,automatic,peer-to-peer,temporal,web,editorial
+Topic, Top Terms
+Topic 0, eye recognition algorithm tracking evaluation feature robust detection perspective automatic quality adaptive detecting clustering retrieval similarity images videos streams search
+Topic 1, scalable mobile networks coding wireless optimization approach caching over social efficient retrieval based quality data progressive effective access network videos
+Topic 2, based efficient towards perspective visual information search watermarking videos streams robust retrieval automatic online data framework effective large-scale feature p2p
+Topic 3, analysis learning classification semantic context based retrieval generation data social streams efficient images online clustering watermarking search wireless sharing web
+Topic 4, control applications interactive real-time networks mobile scalable access wireless interactions over effective delivery fast approach fusion social data online server
+Topic 5, applications interactive real-time context retrieval introduction social special interactions issue modeling search perception learning optimization delivery information data detecting web
+Topic 6, via social live information peer-to-peer performance tcp scheme feature introduction data best temporal special retrieval p2p robust over annotation approach
+Topic 7, via social live information peer-to-peer performance tcp scheme feature introduction data best temporal special retrieval p2p robust over annotation approach

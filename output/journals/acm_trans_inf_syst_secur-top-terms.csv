@@ -1,31 +1,9 @@
-Topic,Top Terms
-Topic 00,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 01,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 02,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 03,trust,negotiation,automated,policies,through,cryptographic,management,integrity,constraints,dynamic,efficient,using,intrusion,role-based,policy,authorization,information,protocols,model,rfid
-Topic 04,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 05,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 06,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 07,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 08,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 09,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 10,editorial,models,special,guest,communications,computer,intrusion,role-based,role,about,policy,protocols,information,authorization,model,anonymous,rfid,dynamic,protocol,operating
-Topic 11,networks,sensor,wireless,schemes,protocol,integrity,routing,efficient,applications,scheme,network,revocation,intrusion,policy,role-based,protocols,authorization,model,information,modeling
-Topic 12,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 13,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 14,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 15,using,encryption,scheme,communication,xml,policy,networks,anonymous,efficient,management,multicast,protocols,model,group,role,administration,logic,about,revocation,sensor
-Topic 16,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 17,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 18,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 19,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 20,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 21,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 22,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 23,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 24,practical,using,revocation,encryption,scheme,networks,sensor,rfid,storage,anonymous,models,wireless,against,efficient,enforcement,schemes,intrusion,policy,role-based,protocols
-Topic 25,cryptographic,using,implementations,efficient,information,tls,encryption,communication,policy,enforcement,networks,automated,protocols,anonymous,model,xml,management,group,practical,policies
-Topic 26,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 27,schemes,applications,network,new,routing,storage,efficient,networks,revocation,intrusion,policy,protocols,model,authorization,role-based,protocol,information,dynamic,rfid,anonymity
-Topic 28,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
-Topic 29,authorization,model,policy,role-based,intrusion,protocols,policies,applications,anonymous,protocol,efficient,information,dynamic,group,management,encryption,specification,network,enforcement,constraints
+Topic, Top Terms
+Topic 0, model authorization policy role-based anonymous protocols specification policies intrusion management information efficient constraints group dynamic logic enforcement xml communications protocol
+Topic 1, encryption scheme revocation role-based intrusion efficient group anonymous policy storage communication implementations protocols authorization information model dynamic rfid wireless protocol
+Topic 2, networks sensor schemes wireless protocol applications integrity efficient storage routing intrusion role-based network policy modeling detecting protocols information authorization rfid
+Topic 3, trust policies negotiation automated cryptographic through management efficient integrity constraints dynamic using enforcement information intrusion implementations role-based tls policy protocols
+Topic 4, applications network routing intrusion policy protocol new authorization model protocols role-based wireless detecting information enforcement private anonymity dynamic modeling against
+Topic 5, applications network routing intrusion policy protocol new authorization model protocols role-based wireless detecting information enforcement private anonymity dynamic modeling against
+Topic 6, using practical networks rfid storage xml anonymous efficient sensor cryptographic communication policy revocation encryption management multicast protocols enforcement model scheme
+Topic 7, editorial models special guest issue communications computer intrusion role-based role about policy protocols information authorization rfid dynamic operating model anonymous

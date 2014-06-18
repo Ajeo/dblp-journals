@@ -1,31 +1,30 @@
-Topic,Top Terms
-Topic 00,joint,jpeg,description,boundary,multiple,scalable,decoding,distortion,channel,artifacts,without,dct-based,jpeg2000,minimum,unwrapping,contour,source-channel,entropy-constrained,codes,maximum
-Topic 01,data,imagery,transforms,sar,phase,hyperspectral,enhancement,algorithms,synthesis,noisy,texture,through,poisson,spatiotemporal,intensity,multiresolution,construction,single,equation,theory
-Topic 02,performance,neural,model-based,automatic,network,networks,target,study,kalman,evaluation,recognition,algorithms,multiple,quantitative,edge,unknown,contour,matching,composite,improvement
-Topic 03,watermarking,matching,invariant,hierarchical,registration,modeling,scale,rotation,geometric,information,shapes,affine,moments,authentication,new,3-d,local,framework,grayscale,features
-Topic 04,blind,deconvolution,anisotropic,methods,diffusion,deblurring,multichannel,smoothing,spectral,filtering,bayesian,processing,parameter,separation,variational,accurate,coefficient,medical,acquisition,tomography
-Topic 05,imaging,camera,three-dimensional,distributed,optimized,efficient,technique,packet,3-d,calibration,lossy,objects,rate-distortion,modeling,thresholding,moving,loss,networks,applications,targets
-Topic 06,quantization,lossless,texture,decomposition,generalized,subband,prediction,signal,sequences,context,optimal,large,indexing,map,modeling,blurred,noisy,signals,under,improved
-Topic 07,quality,assessment,perceptual,rate,control,natural,metric,scene,two,visual,videos,statistics,dct,no-reference,spatio-temporal,signals,smooth,spectrum,empirical,mode
-Topic 08,optimal,error,recovery,scalable,protection,hybrid,compressed,illumination,embedded,allocation,unequal,rate-distortion,bit,multiview,sensing,distributed,systems,comments,criterion,source
-Topic 09,3-d,objects,super-resolution,classification,microscopy,deformable,tracking,representation,method,moving,multiple,novel,bayesian,grouping,structure,sequences,exact,occlusion,histogram,sparse
-Topic 10,random,field,filtering,fields,markov,median,domain,spatial,dct,reduction,edge,circular,principle,curves,information,bayesian,region,unsupervised,space,merging
-Topic 11,binary,fractal,morphological,processing,shape,search,wavelets,representation,sampling,operators,applications,automatic,tree,digital,recursive,object,curvature,approximate,imagery,partition
-Topic 12,tracking,learning,visual,retrieval,framework,object,human,particle,unified,general,localization,content-based,online,features,feature,background,annotation,kernel,training,bayesian
-Topic 13,classification,texture,models,markov,multiscale,hidden,unsupervised,document,modeling,wavelet-based,features,stochastic,textured,combining,text,binary,structure,character,supervised,local
-Topic 14,flow,efficient,sparse,optical,representation,computation,gradient,component,regression,search,via,matrix,discriminative,principal,retrieval,basis,object,probabilistic,alignment,extended
-Topic 15,noise,bayesian,removal,denoising,variational,digital,via,sparse,filtering,weighted,reduction,impulse,linear,representations,dictionary,prior,new,detector,learning,blind
-Topic 16,discrete,active,morphological,line,graph,2-d,spatially,filters,representation,contours,sequence,projections,gabor,subspace,efficient,mathematical,regularization,parallel,morphology,trees
-Topic 17,recognition,face,object,matching,shape,filters,local,linear,discriminant,distance,pattern,least,squares,kernel,gabor,fingerprint,single,feature,illumination,simultaneous
-Topic 18,extraction,feature,automatic,selection,statistical,contrast,enhancement,measure,similarity,matching,thresholding,structural,correlation,index,coefficients,system,complex,new,modeling,multilevel
-Topic 19,local,parametric,new,global,patterns,quantizer,enhancement,distribution,orientation,convergence,inpainting,predictive,super-resolution,surface,variance,texture,regularization,structure,multichannel,planar
-Topic 20,algorithms,tomography,efficient,optimization,rate,correction,compensation,bit,temporal,method,nonlinear,constraint,variational,tomographic,object-based,low,error,dynamic,constancy,distortion
-Topic 21,design,block,2-d,multidimensional,two-dimensional,linear,prediction,filter,view,method,synthesis,interpolation,subband,optimization,stereo,lattice,lifting,problem,depth,recursive
-Topic 22,denoising,gaussian,models,order,encoding,transformation,quantization,algorithms,via,mixture,sensing,wavelet-based,minimization,scale,characterization,scheme,textures,statistical,mixtures,higher
-Topic 23,total,fuzzy,level,variation,constrained,enhancement,set,its,method,edge,evolution,histogram,curve,gradient,active,clustering,denoising,depth,regularized,optimization
-Topic 24,interpolation,registration,maximum,method,processing,methods,correlation,identification,likelihood,blur,frame,region-based,parameters,nonrigid,weighted,motion-compensated,optimization,residual,interactive,nonlocal
-Topic 25,fusion,imaging,radar,aperture,synthetic,approximation,its,evaluation,mapping,via,sar,multiresolution,high-resolution,technique,range,gamut,novel,local,saliency,through
-Topic 26,filter,data,optimal,banks,method,transforms,directional,expansion,new,array,edge,orthogonal,design,functions,reversible,hiding,via,lapped,halftone,watermarking
-Topic 27,transmission,over,resolution,dynamic,channels,noisy,wireless,progressive,high,differential,sensor,range,super,error,networks,partial,allocation,quantized,jpeg2000,multiframe
-Topic 28,quantization,processing,filters,its,theory,multiresolution,applications,data,sets,system,entropy,between,properties,new,multispectral,low,class,linear,signal,cameras
-Topic 29,halftoning,diffusion,multiscale,nonlinear,filtering,filter,error,iterative,inverse,arbitrary,domain,methods,digital,exploiting,frequency,bilateral,magnetic,block-based,schemes,edge-preserving
+Topic, Top Terms
+Topic 00, joint jpeg boundary scalable distortion decoding minimum artifacts arithmetic without iterative between dct-based maximum unwrapping phase contour two-dimensional source-channel effect
+Topic 01, data imagery transforms enhancement multiresolution sar hyperspectral nonlinear phase spatiotemporal algorithms surface recovery through stochastic texture theory noisy approximation synthesis
+Topic 02, performance neural filter model-based networks edge demosaicking network automatic study evaluation algorithms target array kalman multiple directional decision recognition contour
+Topic 03, watermarking new invariant local modeling framework rotation matching super-resolution shapes authentication geometric affine moments 3-d scale hierarchical information process symmetric
+Topic 04, blind deconvolution filtering diffusion methods anisotropic regularization deblurring variational denoising smoothing separation parameter function poisson intensity spectral equation multichannel coefficient
+Topic 05, imaging camera three-dimensional technique distributed calibration high-resolution 3-d optimized applications moving targets range modeling piecewise approximation rate-distortion part isar tracking
+Topic 06, quantization prediction lossless generalized texture context map modeling large improved blurred retrieval noisy sequences signals correlated indexing optimal subband perceptually
+Topic 07, quality assessment rate perceptual natural scene two control metric visual bit constraint videos statistics low no-reference spatio-temporal jpeg2000 tree signals
+Topic 08, optimal error scalable recovery protection multiple description compressed allocation thresholding bit illumination embedded systems distributed unequal hybrid rate-distortion under parallel
+Topic 09, 3-d objects classification representation tracking sequences moving microscopy multiple super-resolution histogram 2-d occlusion grouping exact bayesian structure sparse novel method
+Topic 10, random field filtering fields markov spatial dct median unsupervised reduction bayesian domain information principle curves space optimal merging additive compound
+Topic 11, binary fractal morphological representation applications shape decomposition sampling wavelets operators object scheme automatic filtering processing recursive its digital tree value
+Topic 12, tracking framework visual retrieval learning object human system particle its general implementation localization content-based saliency features unified online magnetic kernel
+Topic 13, classification texture models markov hidden document multiscale stochastic hierarchical decomposition features modeling wavelet-based unsupervised binary text mrf via pattern statistics
+Topic 14, flow efficient optical sparse learning search representation computation component retrieval matrix discriminative principal gradient object dynamic probabilistic alignment deformable regularized
+Topic 15, noise bayesian removal denoising variational reduction linear sparse digital via impulse weighted representations dictionary blind learning detector corrupted new prior
+Topic 16, filters discrete 2-d spatially graph gabor domain morphological representation efficient line subspace projections frequency mathematical morphology transformations connected radon active
+Topic 17, recognition face matching registration object local shape linear nonrigid distance discriminant single least simultaneous squares facial super-resolution pattern construction point
+Topic 18, feature extraction automatic selection contrast enhancement matching statistical similarity complex measure new correlation structural modeling index distribution coefficients theory multilevel
+Topic 19, local patterns global parametric orientation shape predictive exploiting inpainting structure convergence variance fingerprint enhancement models texture problems quantizer regularization planar
+Topic 20, algorithms error tomography efficient halftoning diffusion correction compensation optimization concealment method computational object-based accurate shape hierarchical constancy temporal iterative multiscale
+Topic 21, filter design method optimal block interpolation multidimensional linear two-dimensional view 2-d synthesis subband inverse approximation optimization halftoning lattice lifting problem
+Topic 22, denoising gaussian order wavelet-based scale models mixture background minimization transformation statistical scheme domain sensing joint characterization nonlinear edge higher alternating
+Topic 23, active level total fuzzy variation constrained set depth gradient method contours enhancement evolution edge its clustering via regularized optimization histogram
+Topic 24, interpolation methods registration maximum identification frame sequence likelihood correlation method processing blur weighted motion-compensated fusion region-based optimization nonlocal parameters interactive
+Topic 25, multiscale filter radar fusion aperture synthetic imaging technique mapping banks nonlinear evaluation digital noise sar processing techniques bilateral directional multiresolution
+Topic 26, data optimal hybrid method expansion new tomographic hiding reversible optimized packet embedding efficient frames thresholding lossless halftone via functions edge-preserving
+Topic 27, transmission over dynamic resolution noisy channels high wireless differential optimized sensor range progressive distortion networks super partial allocation quantized block
+Topic 28, quantization processing its new multiresolution applications transforms theory signal entropy class sets filters properties multispectral data integer cameras low digital

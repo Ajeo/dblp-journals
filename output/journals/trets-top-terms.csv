@@ -1,31 +1,3 @@
-Topic,Top Terms
-Topic 00,architecture,design,implementation,applications,computing,using,introduction,optimization,power,fast,circuits,analytical,guest,techniques
-Topic 01,architecture,design,implementation,applications,computing,using,introduction,optimization,acceleration,power,fast,circuits,analytical,guest,techniques
-Topic 02,architecture,design,implementation,computing,introduction,architectures,optimization,power,routing,fast,circuits,scalable,analytical,techniques
-Topic 03,architecture,design,implementation,applications,computing,using,introduction,optimization,acceleration,power,fast,circuits,analytical,guest,techniques
-Topic 04,architecture,design,implementation,applications,computing,using,introduction,heterogeneous,application,optimization,power,fast,circuits,analytical,guest,techniques
-Topic 05,architecture,design,implementation,applications,computing,using,introduction,heterogeneous,optimization,acceleration,power,fast,circuits,analytical,guest,techniques
-Topic 06,architecture,design,implementation,applications,computing,using,introduction,architectures,optimization,power,fast,circuits,analytical,guest,techniques
-Topic 07,architecture,design,implementation,applications,computing,using,introduction,architectures,heterogeneous,optimization,power,fast,circuits,analytical,guest,techniques
-Topic 08,architecture,design,implementation,applications,computing,introduction,application,heterogeneous,optimization,acceleration,power,fast,circuits,analytical,guest,techniques
-Topic 09,architecture,design,implementation,applications,computing,introduction,heterogeneous,optimization,acceleration,power,fast,circuits,analytical,guest,techniques
-Topic 10,architecture,design,implementation,applications,computing,using,introduction,optimization,power,fast,circuits,analytical,guest,techniques
-Topic 11,architecture,design,implementation,applications,computing,introduction,architectures,heterogeneous,optimization,acceleration,memory,power,fast,circuits,analytical,guest,techniques
-Topic 12,architecture,design,implementation,framework,computing,applications,using,heterogeneous,introduction,application,optimization,routing,power,memory,fast,scalable,circuits,analytical,guest,techniques
-Topic 13,architecture,design,implementation,applications,computing,introduction,architectures,optimization,acceleration,memory,power,fast,circuits,analytical,guest,techniques
-Topic 14,architecture,design,implementation,applications,computing,using,introduction,heterogeneous,optimization,power,networks,circuits,analytical,guest,techniques
-Topic 15,architecture,design,implementation,computing,dynamically,using,introduction,application,optimization,routing,power,high-performance,fast,scalable,circuits,analytical,guest,techniques
-Topic 16,architecture,design,implementation,applications,computing,using,introduction,optimization,power,fast,circuits,analytical,guest,techniques
-Topic 17,architecture,design,implementation,applications,computing,introduction,heterogeneous,optimization,acceleration,power,fast,circuits,analytical,guest,techniques
-Topic 18,architecture,design,implementation,applications,computing,using,introduction,heterogeneous,optimization,power,fast,circuits,analytical,guest,techniques
-Topic 19,architecture,design,implementation,applications,computing,introduction,architectures,optimization,acceleration,power,fast,circuits,analytical,guest,techniques
-Topic 20,architecture,design,implementation,applications,computing,using,introduction,optimization,power,fast,circuits,mapping,analytical,techniques
-Topic 21,architecture,design,implementation,applications,computing,using,introduction,heterogeneous,optimization,power,fast,circuits,analytical,guest,techniques
-Topic 22,architecture,design,implementation,applications,computing,using,introduction,optimization,acceleration,power,fast,circuits,analytical,guest,techniques
-Topic 23,architecture,design,implementation,applications,framework,computing,using,introduction,architectures,optimization,acceleration,power,fast,circuits,analytical,guest,techniques
-Topic 24,architecture,design,implementation,applications,computing,using,introduction,architectures,heterogeneous,optimization,acceleration,power,fast,circuits,analytical,guest,techniques
-Topic 25,architecture,design,implementation,framework,applications,computing,using,heterogeneous,introduction,architectures,optimization,power,high-performance,fast,circuits,analytical,guest,techniques
-Topic 26,architecture,design,implementation,computing,dynamically,architectures,application,introduction,using,memory,power,acceleration,optimization,fast,circuits,scalable,techniques,floating-point,analytical
-Topic 27,architecture,design,implementation,applications,computing,using,heterogeneous,introduction,optimization,acceleration,power,fast,circuits,analytical,guest,techniques
-Topic 28,architecture,design,implementation,applications,framework,computing,using,introduction,optimization,acceleration,power,fast,circuits,analytical,guest,techniques
-Topic 29,architecture,design,implementation,applications,computing,using,application,introduction,optimization,power,high-performance,fast,circuits,analytical,guest,techniques
+Topic, Top Terms
+Topic 0, architecture design implementation computing introduction power circuits techniques
+Topic 1, architecture design implementation computing introduction power circuits techniques

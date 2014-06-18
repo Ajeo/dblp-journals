@@ -1,31 +1,29 @@
-Topic,Top Terms
-Topic 00,interference,downlink,multiuser,cancellation,feedback,scheduling,multicell,subcarrier,joint,precoding,linear,avoidance,ds/cdma,ofdma,schemes,suppression,multistage,successive,imperfect,loading
-Topic 01,efficient,mobility,call,hybrid,its,application,scheme,evaluation,arq,hierarchical,communications,implementation,time,schemes,uwb,admission,applications,characteristics,range,improvement
-Topic 02,iterative,decoding,detector,algorithms,low-complexity,delay,coded,mimo-ofdm,joint,fuzzy,new,search,lte,learning,without,intercell,scenarios,codes,ldpc,hybrid
-Topic 03,hybrid,electric,vehicles,energy,management,fuel,optimization,vehicle,plug-in,drive,cell,efficiency,parallel,modeling,driving,comparative,battery,vehicular,converters,storage
-Topic 04,beamforming,link,algorithm,technique,reduction,soft,antenna,spatial,algorithms,fast,interference,handoff,transmit,ratio,multiplexing,distributed,reverse,simplified,mimo-ofdm,errors
-Topic 05,allocation,resource,dynamic,distributed,ofdma,scheduling,assignment,fair,cross-layer,cognitive,management,communication,algorithm,framework,qos,rate,strategies,traffic,ofdma-based,reuse
-Topic 06,approach,battery,identification,model,vehicle,location,cell,filter,position,kalman,tracking,evaluation,dynamic,measurements,problem,batteries,dynamics,filtering,localization,improved
-Topic 07,vehicle,electric,applications,vehicles,automotive,motor,strategy,hybrid,active,traction,controller,intelligent,stability,fault,integration,road,switched,fault-tolerant,lateral,navigation
-Topic 08,propagation,model,urban,indoor,modeling,measurements,environments,environment,simulation,ghz,prediction,microcellular,measurement,delay,stochastic,two-dimensional,wide-band,location,nlos,wideband
-Topic 09,modeling,statistical,markov,area,models,local,location,communication,time,its,cell,new,information,general,applications,theory,sources,pcs,architecture,management
-Topic 10,sensor,rate,scheduling,joint,adaptation,tracking,nonlinear,localization,user,optimal,connectivity,distributed,function,effects,selection,under,distribution,average,closed-form,class
-Topic 11,cognitive,spectrum,sensing,access,dynamic,multichannel,selective,opportunistic,optimal,sharing,radios,users,scheme,medium,forwarding,collaborative,primary,energy,cooperation,energy-efficient
-Topic 12,interference,receivers,spectral,efficiency,equalization,cochannel,approach,rake,optimization,gaussian,frequency-selective,multipath,rayleigh,multiple-access,techniques,frequency,distribution,mmse,characterization,mitigation
-Topic 13,relay,relaying,amplify-and-forward,selection,opportunistic,two-way,outage,network,coding,nakagami-m,throughput,multiuser,multihop,probability,distributed,joint,decode-and-forward,dual-hop,cognitive,feedback
-Topic 14,sensor,scheme,efficient,data,distributed,protocol,vehicular,multihop,mac,optimal,hoc,qos,routing,support,energy-efficient,transmission,message,framework,broadcast,multimedia
-Topic 15,traffic,model,method,new,statistics,from,analytical,data,delay,vehicular,under,modeling,accurate,congestion,methods,mechanisms,integrated,terminals,enhancing,radar
-Topic 16,coding,transmission,equalization,turbo,network,real-time,error,frequency-selective,space-time,rate,frequency-domain,feedback,decision,low,communication,joint,video,slow,aided,monitoring
-Topic 17,capacity,correlated,under,feedback,wcdma,constraints,optimization,spatially,imperfect,multiantenna,uplink,multiuser,planning,limited,beamforming,robust,transmission,csi,spectrum-sharing,designs
-Topic 18,network,services,traffic,efficient,handoff,umts,algorithm,management,capacity,handover,satellite,heterogeneous,evaluation,load,reducing,multimedia,mechanism,between,scheduling,multicast
-Topic 19,multiuser,ds-cdma,multipath,receiver,communications,space-time,asynchronous,error,blind,sequences,broadband,iterative,decision-feedback,sequence,probability,mmse,linear,order,time-varying,bit
-Topic 20,novel,method,base,experimental,prediction,station,path,technique,model,stations,loss,improved,environment,processing,location,validation,placement,relays,signal,outdoor
-Topic 21,hoc,optimization,routing,vehicular,communication,vanets,approach,communications,multicast,cross-layer,authentication,protocol,secure,personal,network,strategy,information,study,location,scheme
-Topic 22,codes,space-time,orthogonal,block,via,algorithm,robust,linear,noncoherent,optimal,multiple,localization,receiver,mode,code,sensors,variable,transmission,relay,optimized
-Topic 23,code,frequency,acquisition,signal,phase,communication,presence,carrier,scheme,noise,signaling,coherent,digital,impulse,single-carrier,offset,offsets,evaluation,schemes,ds/cdma
-Topic 24,frequency,offset,signals,joint,blind,timing,synchronization,uwb,uplink,carrier,mc-cdma,special,editorial,algorithm,semiblind,receiver,estimator,transportation,spread-spectrum,ofdma
-Topic 25,access,packet,transmission,multicarrier,communications,multiple,data,downlink,scheduling,schemes,comparison,voice,algorithms,genetic,reservation,architecture,multiuser,ultra-wideband,atm,number
-Topic 26,ieee,802.11,mesh,protocol,scheme,throughput,mac,multichannel,network,service,improving,enhanced,fairness,wlans,lans,safety,hoc,802.16,enhancement,through
-Topic 27,transmit,antenna,information,rayleigh,selection,positioning,space-time,codes,arrays,bounds,techniques,steering,distance,precoding,binary,turbo,state,gps,application,improved
-Topic 28,antenna,antennas,array,correlation,environments,satellite,communication,effects,smart,directional,effect,distribution,correction,novel,links,capacity,communications,exploiting,characteristics,simulator
-Topic 29,combining,modulation,rayleigh,error,signals,generalized,correlated,noise,selection,optimum,coded,qam,differential,nakagami,probability,mrc,ber,receive,presence,space-frequency
+Topic, Top Terms
+Topic 00, interference downlink multiuser cancellation multicell joint subcarrier ds-cdma feedback suppression ds/cdma avoidance precoding successive ratio multistage linear reduction beamforming assignment
+Topic 01, its application communications efficient time uwb signal arq data environments implementation hybrid applications impact range broadcasting characterization method improvement strategy
+Topic 02, iterative decoding mimo-ofdm detector low-complexity algorithms interference delay coded mitigation codes learning new lte time-varying gaussian intercell turbo convolutional joint
+Topic 03, hybrid electric vehicles energy management fuel vehicle plug-in drive cell optimization efficiency modeling integrated parallel comparative battery driving voltage converter
+Topic 04, antenna link beamforming array spatial noise effect algorithm technique transmit multiplexing errors reduction algorithms ber fast new distributed reverse interference
+Topic 05, allocation resource dynamic scheduling distributed ofdma cross-layer assignment fair rate cognitive downlink throughput management multiuser qos framework strategies constraints heterogeneous
+Topic 06, evaluation optimal battery model approach identification vehicle filter real-time location position cell kalman measurements methods improved sensors tracking localization practical
+Topic 07, vehicle electric vehicles applications automotive hybrid strategy motor active traction controller switched intelligent fault stability integration fault-tolerant road autonomous navigation
+Topic 08, propagation model modeling urban indoor environments measurements simulation ghz environment statistical measurement microcellular prediction stochastic wide-band models distributions two-dimensional delay
+Topic 09, communication optimization differential area models information statistical modeling applications markov new pilot local sources architecture measurement comments experiments transmissions cells
+Topic 10, sensor rate distribution tracking mobility user adaptation localization distributed nonlinear generalized scheduling function effects under filtering distortion joint density average
+Topic 11, cognitive spectrum sensing access selective dynamic opportunistic multichannel sharing radios scheme users optimal medium ofdm-based cooperation primary collaborative via technique
+Topic 12, frequency offset carrier spectral communication interference joint cochannel efficiency phase correlation presence multipath digital signal equalization mc-cdma noise compensation estimator
+Topic 13, relay relaying selection amplify-and-forward coding network two-way outage opportunistic nakagami-m distributed modulation joint decode-and-forward probability dual-hop cognitive multihop throughput scheme
+Topic 14, sensor scheme efficient protocol data vehicular multihop distributed hoc optimal mac routing qos energy-efficient support mobility broadcast scheduling transmission message
+Topic 15, traffic data model transmission scheduling statistics packet under new analytical from delay voice video congestion integrated mechanism vehicular method accurate
+Topic 16, coding transmission equalization network turbo robust signal low-complexity decision through via single-carrier space-time frequency-domain real-time feedback error frequency-selective monitoring block
+Topic 17, capacity correlated feedback optimization multiuser techniques under joint spatially limited interference maximization planning schemes constraints multiantenna relay designs multiple-access allocation
+Topic 18, algorithm handoff network admission efficient capacity management traffic services soft call wcdma hierarchical location assignment uplink modeling multimedia heterogeneous evaluation
+Topic 19, multiuser ds-cdma error multipath space-time modulation communications probability receiver coded asynchronous nakagami broadband rate sequences rayleigh mmse spreading time-varying decision-feedback
+Topic 20, method novel antenna antennas base prediction directional transmission mode environment smart path model station experimental stations downlink location validation placement
+Topic 21, hoc communication routing approach vehicular vanets protocol cross-layer optimization personal multicast strategy joint study mesh authentication unified key secure effective
+Topic 22, space-time codes orthogonal block linear via receiver robust noncoherent algorithm multiple satellite optimal modulation localization sequence variable relay short rates
+Topic 23, combining code rayleigh selection optimum presence signals generalized acquisition correlation gain evaluation signaling schemes scheme orthogonal ratio effects distance interferers
+Topic 24, signals blind uplink receiver receivers synchronization timing special section uwb editorial frequency-selective iterative fast mc-cdma mrc algorithm rake maximum-likelihood generalized
+Topic 25, access communications multiple multicarrier packet schemes downlink comparison algorithms genetic architecture ultra-wideband two high-speed number user multiuser improvement capacity random
+Topic 26, ieee 802.11 scheme mesh network mac protocol multichannel improving service hybrid lans safety enhanced enhancement satellite 802.16 wlans multicode leo
+Topic 27, transmit antenna information imperfect selection rayleigh space-time positioning beamforming multiple codes arrays steering bounds relays precoding antennas rician state binary

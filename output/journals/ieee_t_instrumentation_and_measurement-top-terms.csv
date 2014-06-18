@@ -1,31 +1,29 @@
-Topic,Top Terms
-Topic 00,reduction,converter,impedance,analog-to-digital,high-resolution,correction,converters,input,metrology,architecture,applications,techniques,polynomial,timing,systematic,reconstruction,error,lines,adcs,uncertainty
-Topic 01,adaptive,networks,neural,detection,automatic,quality,classification,filter,filters,fuzzy,tracking,image,network,vision,signals,artificial,online,hybrid,control,robust
-Topic 02,cmos,passive,detector,absolute,position,circuit,intelligent,rfid,novel,high-speed,modeling,hybrid,instrumentation,transducers,applied,jitter,detecting,processing,high-accuracy,readout
-Topic 03,electrical,acquisition,monitoring,tomography,impedance,effect,laser,testing,instrument,capacitance,pulsed,cell,imaging,transformer,source,situ,theoretical,through,tdr,modeling
-Topic 04,uncertainty,electromagnetic,from,energy,acoustic,procedure,model,effective,sampling,parameter,coil,assessment,parameters,propagation,optimization,electron,rogowski,simulation,modified,tool
-Topic 05,monitoring,laser,study,image,integrated,processing,flow,feature,case,condition,sensing,diode,gas,application,absorption,quality,process,self-mixing,quantitative,velocity
-Topic 06,wireless,distributed,control,virtual,communication,instrument,network,synchronization,networks,smart,ieee,monitoring,remote,industrial,applications,real-time,interface,time,platform,implementation
-Topic 07,resistance,transfer,ac-dc,thermal,silicon,bridge,standards,determination,hall,standard,capacitance,quantized,constant,frequencies,quantum,resistors,converters,difference,avogadro,precision
-Topic 08,signals,spectral,time,spectrum,phase,sampled,nonlinearity,algorithm,domain,filtering,amplitude,sampling,accurate,detectors,adaptive,adcs,periodic,stochastic,magnetic,correction
-Topic 09,microwave,phase,electronic,devices,application,imaging,detection,near-field,distribution,low-cost,surface,steel,reactive,temperature,monitoring,reconstruction,compact,probe,remote,laser
-Topic 10,applications,imaging,detection,flow,novel,ultrasonic,nondestructive,array,sensing,ultrasound,mode,wave,online,noncontact,modulated,high-resolution,continuous,structures,combined,two-phase
-Topic 11,converters,a/d,from,probe,setup,antenna,precision,coaxial,loop,novel,uncertainties,measuring,dynamic,ratio,testing,model,time-domain,light,high-voltage,band
-Topic 12,wavelet,image,transform,fuzzy,motor,multiple,via,detection,diagnosis,induction,enhancement,machines,field,modeling,light,packet,electric,composite,spectral,statistical
-Topic 13,thermal,cryogenic,performance,stability,accuracy,toward,high,converter,thin-film,comparator,haptic,verification,multijunction,improving,source,operating,temperature,sources,standard,experiment
-Topic 14,special,adc,section,editorial,ieee,guest,testing,instrumentation,international,uncertainty,histogram,applications,test,methods,technology,advanced,processing,workshop,future,issue
-Topic 15,test,circuits,fault,analog,testing,selection,implementation,diagnosis,embedded,detection,software,built-in,scheme,space,virtual,hardware,instrumentation,integrated,parallel,fpga
-Topic 16,optical,temperature,sensitivity,processing,ultrasonic,modulation,electronic,real-time,automated,resolution,partial,gps,pulse,correlation,high,order,studies,multifunctional,strain,diodes
-Topic 17,techniques,identification,comparison,test,amplifiers,improvement,optimization,control,study,low-cost,performance,feedback,experimental,optical,measuring,impulse,gas,phase,equipment,high-performance
-Topic 18,nonlinear,linear,models,signals,application,dynamic,identification,approximation,distortions,presence,domain,accurate,delay,length,phasor,estimating,best,effects,modulators,autoregressive
-Topic 19,microwave,materials,properties,dielectric,measuring,parameters,moisture,small,determination,content,water,cavity,electromagnetic,coupling,reflection,material,frequencies,electrical,model,magnetic
-Topic 20,modeling,nonlinear,model,response,function,from,error,network,state,dynamic,neural,electric,compensation,distribution,identification,effects,networks,semiconductor,sources,filtering
-Topic 21,permittivity,uncertainty,experimental,complex,results,ghz,comparison,waveguide,dielectric,techniques,transmission,flicker,between,from,probability,validation,line,numerical,resonator,rectangular
-Topic 22,performance,range,conditions,under,dynamic,wideband,use,radio,channel,experimental,receiver,behavior,transient,testing,radar,magnetic,audio,applications,mimo,tactile
-Topic 23,analyzer,circuit,simple,network,harmonic,vector,algorithm,interface,broadband,output,low-cost,performance,distortion,fast,spectrum,fourier,equivalent,range,capacitive,amplifier
-Topic 24,optical,fiber,pressure,fiber-optic,time,development,transfer,transducer,flexible,optic,delay,liquid,displacement,vibration,piezoelectric,fibers,study,novel,grating,feasibility
-Topic 25,algorithm,standard,optical,accurate,navigation,mobile,atomic,clock,indoor,low-cost,localization,genetic,reference,robots,robot,used,control,laser,source,visual
-Topic 26,3-d,motion,robust,images,blood,camera,recognition,fusion,objects,real-time,from,inertial,filtering,infrared,pressure,segmentation,mobile,ultrasound,models,automatic
-Topic 27,capacitive,device,novel,generator,range,measure,determination,gain,thickness,transducer,differential,khz,test,100,contactless,precision,instruments,thin,characteristics,structures
-Topic 28,josephson,standard,comparison,standards,programmable,methods,different,arrays,sampling,two,between,development,waveform,series,time,generation,array,bipm,waves,part
-Topic 29,magnetic,field,filter,compensation,kalman,temperature,standard,application,novel,balance,effect,its,realization,optimal,presence,low-frequency,mems,indirect,harmonic,cell
+Topic, Top Terms
+Topic 00, converter impedance analog-to-digital high-resolution applications correction techniques reduction uncertainty converters metrology timing polynomial input error adcs compensation built-in lines time-domain
+Topic 01, adaptive networks filter neural detection automatic wavelet kalman filters quality signals classification tracking network artificial robust vision transform image identification
+Topic 02, modeling cmos novel circuit passive detector absolute high-speed applied measure rfid position local wireless intelligent positioning high-accuracy technology jitter transducers
+Topic 03, tomography electrical acquisition effect thickness ultrasonic testing impedance source laser monitoring pulsed capacitance imaging solution detection modeling instrument metal currents
+Topic 04, uncertainty comparison electromagnetic sampling energy methods procedure from assessment techniques different rogowski parameters coil through effective model simulation quality metrological
+Topic 05, monitoring image integrated processing laser real-time condition gas feature quality health process imaging enhanced classification improved device machine sensing self-mixing
+Topic 06, wireless distributed control virtual communication ieee synchronization network instrument networks smart interface monitoring remote applications industrial time real-time platform reconfigurable
+Topic 07, josephson standards standard resistance programmable comparison silicon hall constant determination quantized quantum balance meter arrays capacitance loss series avogadro resistors
+Topic 08, signals spectral phase standard dynamic nonlinearity correction sampled algorithm spectrum components algorithms application stochastic amplitude time detectors harmonic periodic phasor
+Topic 09, application low-cost devices electronic monitoring its laser temperature surface beam phase fiber-optic electron distribution compact scanning steel active on-line device
+Topic 10, detection applications imaging flow sensing ultrasonic array novel online nondestructive noncontact ultrasound modulated two-phase embedded wave continuous mode three-dimensional acoustic
+Topic 11, a/d probe converters measuring near-field precision antenna loop uncertainties electrical model setup imaging time-domain from waveform dynamic novel coaxial testing
+Topic 12, fuzzy fast image techniques response reconstruction signals processing function motor vibration images enhancement multiple induction machines via diagnosis reduction models
+Topic 13, temperature cryogenic bridge comparator stability toward from high source improved performance haptic equipment verification standard concrete accuracy progress research operating
+Topic 14, adc special section testing editorial instrumentation guest ieee test international histogram applications advanced technology device workshop methods linearity issue future
+Topic 15, test fault circuits analog testing diagnosis selection implementation embedded detection environment software scheme virtual space methodology built-in framework experiments hardware
+Topic 16, optical temperature pulse sensitivity electronic modulation partial automated pattern absorption hybrid high rate resolution error low-power experimental oscillator order studies
+Topic 17, identification study optical methods comparison two amplifiers determination feedback control phase experimental mass interferometer between low-cost improvement active comparative position
+Topic 18, linear nonlinear models signals study domain identification approximation case accurate application measuring length waveform best instantaneous dynamic harmonics stability modulators
+Topic 19, microwave materials dielectric properties measuring determination small moisture parameters content frequencies electrical nondestructive novel electromagnetic magnetic water model coupling cavity
+Topic 20, field magnetic nonlinear model modeling from electric error state response neural network compensation distribution presence function gas networks identification sources
+Topic 21, permittivity uncertainty experimental complex results ghz waveguide techniques flicker errors transmission mems accuracy line probability functions resonator numerical rectangular validation
+Topic 22, performance range under conditions use dynamic wideband radio channel magnetic behavior receiver mimo transient optimized parameters experimental meters antenna communication
+Topic 23, circuit analyzer network harmonic vector simple algorithm interface output broadband low-cost transform performance spectrum microwave very equivalent resistive distortion analyzers
+Topic 24, transfer thermal fiber ac-dc optical converters time development standard thin-film generation converter difference high-voltage multijunction high optic delay pressure standards
+Topic 25, algorithm standard optical navigation accurate clock mobile reference indoor localization genetic robots robot used laser surface atomic primary sequences visual
+Topic 26, motion 3-d robust camera pressure blood control objects images infrared recognition inertial automatic mobile validation human real-time segmentation portable indirect
+Topic 27, novel capacitive generator transducer precision differential gain range 100 khz devices cell displacement contactless structures linear low-frequency motors three-dimensional divider

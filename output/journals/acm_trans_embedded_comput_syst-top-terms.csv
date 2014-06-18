@@ -1,31 +1,30 @@
-Topic,Top Terms
-Topic 00,online,high-performance,compression,image,support,algorithm,processing,robust,processor,packet,smart,shared,services,fpgas,low-cost,buffer,multiple,profiling,security,dsp
-Topic 01,body,recognition,physical,monitoring,area,activity,sensors,multiple,devices,tool,device,energy-efficient,mac,selection,reconfigurations,hierarchical,smart,processing,reliable,multiprocessors
-Topic 02,energy-efficient,allocation,techniques,task,variable,hard,optimal,coalescing,processor,dynamically,schedulability,compositional,multiprocessor,low-cost,processing,probabilistic,buffer,computation,graphs,stream
-Topic 03,modeling,integration,virtual,towards,trade-offs,under,thread,parallelism,over,scalable,probabilistic,nets,theory,processor,method,computation,i/o,hierarchical,fault,workload
-Topic 04,distributed,secure,routing,sharing,localization,computing,reconfigurations,schedulability,hard,smart,based,scalable,processing,platform,low-cost,methodology,programming,thread,lightweight,advanced
-Topic 05,dynamic,platforms,video,vliw,exploration,programs,profiling,support,instructions,interactive,services,over,controllers,leakage,evaluation,via,workload,fault,scalable,computation
-Topic 06,cyber-physical,fast,programming,networked,devices,tool,introduction,framework,probabilistic,compositional,static,packet,methodology,accurate,over,scalable,localization,via,algorithm,smart
-Topic 07,mobile,framework,trade-off,dynamic,selection,programming,localization,attacks,communication,robust,model-driven,methodology,energy,application-specific,workload,chip,multiprocessors,smart,soc,platform
-Topic 08,efficient,implementation,storage,flash-memory,reduction,layer,dsp,size,processor,under,communication,devices,evaluation,thread,protocol,over,controllers,probabilistic,methodology,localization
-Topic 09,java,environment,garbage,collection,processing,fpgas,services,specification,localization,lightweight,shared,system,security,interactive,application-specific,evaluation,algorithm,improving,protocol,methods
-Topic 10,processors,voltage,low-power,estimation,dynamically,optimal,custom,application-specific,variable,information,scalable,packet,thread,processing,scratchpad,processor,algorithm,instructions,static,improving
-Topic 11,introduction,section,multiprocessor,exploration,space,system-on-chip,advanced,chip,platform,application-specific,processing,soc,engineering,probabilistic,multiprocessors,shared,smart,platforms,robust,methodology
-Topic 12,based,time,instruction,model,execution,checking,caches,analyzing,petri,nets,reactive,communication,thread,protocol,controllers,schedulability,compositional,reliable,fpga,processors
-Topic 13,generation,automatic,programs,from,specifications,systemc,loop,loops,partitioning,application,reactive,stream,communication,hierarchical,via,evaluation,tool,graphs,services,instructions
-Topic 14,performance,constraints,formal,detection,under,soft,specification,i/o,method,fpga,deadlock,reactive,methods,methodology,mac,protocol,workload,implementations,reconfigurations,shared
-Topic 15,assignment,algorithms,offset,hard,address,register,evaluation,processor,communication,algorithm,reconfigurations,size,buffer,coalescing,security,variable,localization,tasks,minimal,scheme
-Topic 16,system,applications,operating,exploiting,compiler,energy,interactive,dsp,online,processor,application-specific,engineering,parallelism,mac,fault,stream,specification,thread,size,trade-offs
-Topic 17,power,runtime,efficiency,reconfiguration,through,on-chip,communication,static,algorithm,computation,fpgas,parallelism,reconfigurations,controllers,improving,compiler,probabilistic,fault,profiling,scalable
-Topic 18,heterogeneous,energy-aware,task,computing,register,reliable,coalescing,policies,reactive,scheduling,instructions,video,over,communication,algorithm,engineering,techniques,parallelism,probabilistic,shared
-Topic 19,efficient,parallel,technique,simulation,instruction-set,distributed,computing,estimation,deadlock,over,model-driven,methods,improving,algorithm,hierarchical,fpgas,reduction,workload,size,processing
-Topic 20,editorial,guest,configurable,computing,algorithms,hardware,security,model-driven,soc,exploration,engineering,space,cache,parallelism,introduction,probabilistic,shared,section,dynamically,evaluation
-Topic 21,cache,instruction,highly,low,device,reduction,processing,analyzing,evaluation,fpgas,application-specific,security,protocol,localization,multiple,methods,attacks,theory,stream,interactive
-Topic 22,flash,hybrid,scheme,translation,layer,algorithm,abstraction,lightweight,address,buffer,smart,under,security,localization,information,probabilistic,fault,attacks,deadlock,compiler
-Topic 23,study,system-level,case,power-aware,computing,accurate,fast,smart,soc,unified,methodology,power,modeling,engineering,exploration,profiling,parallelism,implementations,probabilistic,synthesis
-Topic 24,verification,petri,refinement,safety,nets,abstraction,deadlock,hybrid,localization,via,specification,fault,controllers,computation,application,communication,dynamically,security,introduction,systemc
-Topic 25,energy,reducing,leakage,tasks,cache,loops,vliw,improving,parallelism,java,workload,low,via,highly,nets,runtime,reconfiguration,packet,processing,environment
-Topic 26,applications,mapping,mpsocs,scheduling,streaming,application,dynamic,policies,unified,robust,reconfigurations,reliable,buffer,profiling,methodology,specifications,computation,multiprocessors,workload,algorithm
-Topic 27,architectures,synthesis,multicore,pipelined,fpga,implementations,execution,robust,model,theory,vliw,checking,processing,parallel,leakage,computation,multiprocessors,controllers,smart,evaluation
-Topic 28,scheduling,models,synchronous,flow,tasks,scratchpad,minimal,graphs,nets,static,security,processor,improving,smart,algorithm,buffer,hierarchical,via,information,packet
-Topic 29,hardware,partitioning,exploration,loops,support,method,i/o,space,processing,evaluation,algorithm,security,information,multiprocessors,fault,attacks,deadlock,image,buffer,application-specific
+Topic, Top Terms
+Topic 00, hardware compression high-performance partitioning online support image processing method algorithm loops evaluation security information services fault attacks shared multiprocessors robust
+Topic 01, body recognition physical monitoring area activity sensors multiple devices tool device energy-efficient mac selection reconfigurations processing hierarchical smart reliable multiprocessors
+Topic 02, energy-efficient allocation techniques task variable hard optimal coalescing processor dynamically schedulability compositional multiprocessor processing low-cost probabilistic buffer computation graphs stream
+Topic 03, modeling integration virtual towards trade-offs under thread parallelism method over scalable i/o probabilistic theory nets processor computation hierarchical fault workload
+Topic 04, distributed secure routing sharing localization reconfigurations computing schedulability hard smart processing scalable low-cost platform methodology programming thread lightweight based advanced
+Topic 05, dynamic platforms video exploration vliw programs profiling support interactive services instructions over space evaluation controllers via workload fault scalable computation
+Topic 06, cyber-physical fast programming networked devices tool introduction framework probabilistic compositional static packet methodology accurate over localization scalable via algorithm application-specific
+Topic 07, mobile framework trade-off dynamic selection programming localization attacks communication robust model-driven methodology application-specific workload chip platform smart soc multiprocessors profiling
+Topic 08, efficient implementation storage flash-memory reduction layer dsp size processor under evaluation communication devices thread protocol controllers over probabilistic methodology localization
+Topic 09, cache java environment highly device processing garbage application-specific algorithm fpgas reduction low multiple protocol localization security interactive evaluation methods buffer
+Topic 10, processors voltage low-power estimation dynamically optimal custom variable application-specific information packet thread scalable processing scratchpad algorithm processor evaluation instructions static
+Topic 11, introduction section multiprocessor exploration space system-on-chip advanced chip platform application-specific processing soc engineering probabilistic multiprocessors robust methodology shared smart platforms
+Topic 12, based time instruction model analyzing petri caches checking nets communication thread protocol controllers sharing processors reliable fpga exploration security attacks
+Topic 13, generation automatic programs from specifications systemc loop loops partitioning application reactive stream communication hierarchical via services evaluation tool graphs instructions
+Topic 14, performance constraints formal detection under soft specification i/o method deadlock reactive methods mac protocol methodology workload fpga reconfigurations information shared
+Topic 15, assignment algorithms offset hard address register evaluation processor communication algorithm reconfigurations size buffer coalescing security tasks localization minimal variable method
+Topic 16, system applications operating exploiting compiler energy online interactive high-performance dsp processor application-specific engineering parallelism mac fault stream specification size java
+Topic 17, architectures reducing fpga implementations leakage vliw pipelined java environment parallel processing robust theory parallelism improving evaluation synthesis collection garbage hierarchical
+Topic 18, heterogeneous energy-aware task computing register reliable coalescing policies reactive scheduling instructions video over communication engineering algorithm techniques parallelism shared probabilistic
+Topic 19, efficient technique parallel simulation instruction-set distributed computing estimation over deadlock methods improving model-driven fpgas algorithm hierarchical reduction size workload processing
+Topic 20, editorial guest configurable computing algorithms hardware security model-driven soc exploration space cache engineering parallelism low highly introduction shared probabilistic fpgas
+Topic 21, scheduling models synchronous flow tasks scratchpad minimal graphs nets static security processor improving smart algorithm via information hierarchical buffer lightweight
+Topic 22, flash hybrid scheme translation layer algorithm lightweight address abstraction buffer security smart under fault attacks localization information probabilistic deadlock compiler
+Topic 23, study system-level case computing power-aware accurate fast smart unified soc methodology power modeling engineering shared profiling exploration parallelism fpgas probabilistic
+Topic 24, verification petri refinement safety nets abstraction deadlock hybrid localization via specification fault controllers computation application communication dynamically security introduction systemc
+Topic 25, energy cache tasks loops partitioning reconfiguration low highly leakage workload runtime java via processing improving environment packet detection parallelism i/o
+Topic 26, applications mapping scheduling mpsocs streaming application dynamic policies unified robust reconfigurations reliable buffer profiling methodology specifications computation multiprocessors workload algorithm
+Topic 27, synthesis instruction multicore execution model pipelined checking caches analyzing robust theory reactive schedulability computation multiprocessors attacks lightweight processors processing custom
+Topic 28, power runtime efficiency reconfiguration through on-chip communication static algorithm computation fpgas parallelism reconfigurations controllers compiler improving probabilistic profiling fault attacks
